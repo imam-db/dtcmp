@@ -1,5 +1,7 @@
 # Introduction to Python
 
+[link course](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
+
 ## [Python Basics](./01_python_basics/)
 
 An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.

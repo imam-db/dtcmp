@@ -1,6 +1,9 @@
 # Understand Data Engineering
 
+[link course](https://app.datacamp.com/learn/courses/understanding-data-engineering)
+
 ## [What is Data Engineering?](./01_what_is_data_engineering/)
+
 
 In this chapter, you’ll learn what data engineering is and why demand for them is increasing. You’ll then discover where data engineering sits in relation to the data science lifecycle, how data engineers differ from data scientists, and have an introduction to your first complete data pipeline. 
 
