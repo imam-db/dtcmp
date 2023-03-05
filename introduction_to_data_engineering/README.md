@@ -1,5 +1,7 @@
 # Introduction to Data Engineering
 
+[link course](https://app.datacamp.com/learn/courses/introduction-to-data-engineering)
+
 
 ## [Introduction to Data Engineering](./01_introduction_to_data_engineering/)
 
