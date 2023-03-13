@@ -6,3 +6,5 @@
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
 - [Writing Efficient Python Code](./writing_eficient_python_code/)
 - [Writing Functions in Python](./writing_functions_in_python/)
+- [Introduction to Shell](./introduction_to_shell/)
+- [Data Processing in Shell](./data_processing_in_shell/)
