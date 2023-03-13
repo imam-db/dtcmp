@@ -8,3 +8,4 @@
 - [Writing Functions in Python](./writing_functions_in_python/)
 - [Introduction to Shell](./introduction_to_shell/)
 - [Data Processing in Shell](./data_processing_in_shell/)
+- [Introduction to Bash Scripting](/introduction_to_bash_scripting/)
