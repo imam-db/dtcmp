@@ -13,7 +13,7 @@ In this chapter, you’ll gain a complete introduction to the components of Apac
 
 What’s up DAG? Now it’s time to learn the basics of implementing Airflow DAGs. Through hands-on activities, you’ll learn how to set up and deploy operators, tasks, and scheduling. 
 
-## [Maintaining and monitoring Airflow workflows](./03_maintaining_and_monitoring_airflow_workflows/
+## [Maintaining and monitoring Airflow workflows](./03_maintaining_and_monitoring_airflow_workflows/)
 
 In this chapter, you’ll learn how to save yourself time using Airflow components such as sensors and executors while monitoring and troubleshooting Airflow workflows. 
 
