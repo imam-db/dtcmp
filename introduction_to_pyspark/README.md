@@ -5,7 +5,7 @@
 In this course, you'll learn how to use Spark from Python! Spark is a tool for doing parallel computation with large datasets and it integrates well with Python. PySpark is the Python package that makes the magic happen. You'll use this package to work with data about flights from Portland and Seattle. You'll learn to wrangle this data and build a whole machine learning pipeline to predict whether or not flights will be delayed. Get ready to put some Spark in your Python code and dive into the world of high-performance machine learning! 
 
 
-## [Getting to Knoe PySpark](./01_getting_to_know_pyspark/)
+## [Getting to Know PySpark](./01_getting_to_know_pyspark/)
 
 In this chapter, you'll learn how Spark manages data and how can you read and write tables from Python. 
 
