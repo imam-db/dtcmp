@@ -1,6 +1,6 @@
 # Data Engineer with Python
 
-V4
+[V4](https://app.datacamp.com/learn/career-tracks/data-engineer?version=4)
 
 - [Understand Data Engineering](./understand_data_engineering/)
 - [Introduction to Python](./introduction_to_python/)
@@ -26,7 +26,7 @@ V4
 
 
 
-V5
+[V5](https://app.datacamp.com/learn/career-tracks/data-engineer?version=5)
 
 - [Understand Data Engineering](./understand_data_engineering/)
 - [Introduction to SQL](./introduction_to_sql/)
