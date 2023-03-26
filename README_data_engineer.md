@@ -1,5 +1,7 @@
 # Data Engineer with Python
 
+V4
+
 - [Understand Data Engineering](./understand_data_engineering/)
 - [Introduction to Python](./introduction_to_python/)
 - [Introduction to Data Engineering](./introduction_to_data_engineering/)
@@ -13,6 +15,34 @@
 - [Object Oriented Programming in Python](./object_oriented_programming_in_python/)
 - [Introduction to Airflow in Python](./introduction_to_airflow_in_python/)
 - [Introduction to PySpark](./introduction_to_pyspark/)
-- [Introduction to SQL](./introduction_to_sql/)
+- Introduction to AWS Boto in Python
+- Data Analysis in SQL (PostgreSQL)
+- Introduction to Relational Databases in SQL
+- Database Design
+- Introduction to Scala
+- Big Data Fundamentals with PySpark
+- Cleaning Data with PySpark
+- Introduction to MongoDB in Python
 
-Continue...
+
+
+V5
+
+- [Understand Data Engineering](./understand_data_engineering/)
+- [Introduction to SQL](./introduction_to_sql/)
+- Intermediate SQL
+- Joining Data in SQL
+- Introduction to Relational Databases in SQL
+- Database Design
+- [Introduction to Python](./introduction_to_python/)
+- Intermediate Python
+- Introduction to Importing Data in Python
+- Intermediate Importing Data in Python
+- Understanding Cloud Computing
+- Cleaning Data in Python
+- Writing Efficient Python Code
+- Streamlined Data Ingestion with Pandas
+- Designing a Bank Marketing Database
+- Understanding Data Visualization
+- Introduction to Git
+- Software Engineering for Data Scientist in Python
