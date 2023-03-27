@@ -30,7 +30,7 @@
 
 - [Understand Data Engineering](./understand_data_engineering/)
 - [Introduction to SQL](./introduction_to_sql/)
-- Intermediate SQL
+- [Intermediate SQL](./intermediate_sql/)
 - Joining Data in SQL
 - Introduction to Relational Databases in SQL
 - Database Design
