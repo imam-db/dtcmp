@@ -31,7 +31,7 @@
 - [Understand Data Engineering](./understand_data_engineering/)
 - [Introduction to SQL](./introduction_to_sql/)
 - [Intermediate SQL](./intermediate_sql/)
-- Joining Data in SQL
+- [Joining Data in SQL](./joining_data_in_sql/)
 - Introduction to Relational Databases in SQL
 - Database Design
 - [Introduction to Python](./introduction_to_python/)
