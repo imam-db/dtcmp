@@ -32,7 +32,7 @@
 - [Introduction to SQL](./introduction_to_sql/)
 - [Intermediate SQL](./intermediate_sql/)
 - [Joining Data in SQL](./joining_data_in_sql/)
-- Introduction to Relational Databases in SQL
+- [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - Database Design
 - [Introduction to Python](./introduction_to_python/)
 - Intermediate Python
