@@ -35,7 +35,7 @@
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - [Database Design](./database_design/)
 - [Introduction to Python](./introduction_to_python/)
-- Intermediate Python
+- [Intermediate Python](./intermediate_python/)
 - Introduction to Importing Data in Python
 - Intermediate Importing Data in Python
 - Understanding Cloud Computing

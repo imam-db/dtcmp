@@ -1,7 +1,7 @@
 # Python Programmer
 
 - [Introduction to Data Science in Python](./introduction_to_data_science_in_python/)
-- Intermediate Python
+- [Intermediate Python](./intermediate_python/)
 - Data Manipulation with Pandas
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
