@@ -17,8 +17,8 @@
 - [Introduction to PySpark](./introduction_to_pyspark/)
 - Introduction to AWS Boto in Python
 - Data Analysis in SQL (PostgreSQL)
-- Introduction to Relational Databases in SQL
-- Database Design
+- [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
+- [Database Design](./database_design/)
 - Introduction to Scala
 - Big Data Fundamentals with PySpark
 - Cleaning Data with PySpark
