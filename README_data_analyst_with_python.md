@@ -1,5 +1,7 @@
 # Data Analyst with Python
 
+[v4](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python?version=4)
+
 - [Introduction to Data Science in Python](./introduction_to_data_science_in_python/)
 - [Intermediate Python](./intermediate_python/)
 - Data Manipulation with Pandas
@@ -17,3 +19,17 @@
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - SQL for Joining Data
 - Introduction to Databases in Python
+
+[New](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
+
+- Introduction to Python
+- Intermediate Python
+- Data Manipulation with Pandas
+- Joining Data with Pandas
+- Introduction to Statistics in Python
+- Introduction to Data Visualization with Seaborn
+- Data Manipulation with Python
+- Importing and Cleaning Data with Python
+- Exploratory Data Analysis with Python
+- Sampling in Python
+- Hypothesis Testing in Python
