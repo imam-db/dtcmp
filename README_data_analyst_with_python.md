@@ -14,6 +14,6 @@
 - Analyze Police Activity with Pandas
 - Intermediate SQL Queries
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
-- Introduction to Relational Databases in SQL
+- [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - SQL for Joining Data
 - Introduction to Databases in Python
