@@ -22,11 +22,11 @@
 
 [New](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
 
-- Introduction to Python
-- Intermediate Python
+- [Introduction to Python](./introduction_to_python/)
+- [Intermediate Python](./intermediate_python/)
 - Data Manipulation with Pandas
 - Joining Data with Pandas
-- Introduction to Statistics in Python
+- [Introduction to Statistics in Python](./introduction_to_statistics_in_python/)
 - Introduction to Data Visualization with Seaborn
 - Data Manipulation with Python
 - Importing and Cleaning Data with Python
