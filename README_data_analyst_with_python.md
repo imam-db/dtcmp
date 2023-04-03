@@ -8,7 +8,7 @@
 - Joining Data with Pandas
 - Introduction to Data Visualization with Matplotlib
 - Data Manipulation with Python
-- Introduction to Importing Data in Python
+- [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
 - Intermediate Importing Data in Python
 - Cleaning Data in Python
 - Importing and Cleaning Data with Python

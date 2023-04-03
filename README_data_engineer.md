@@ -36,7 +36,7 @@
 - [Database Design](./database_design/)
 - [Introduction to Python](./introduction_to_python/)
 - [Intermediate Python](./intermediate_python/)
-- Introduction to Importing Data in Python
+- [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
 - Intermediate Importing Data in Python
 - [Understanding Cloud Computing](./understanding_cloud_computing/)
 - Cleaning Data in Python
