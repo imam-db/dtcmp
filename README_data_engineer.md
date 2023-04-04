@@ -37,7 +37,7 @@
 - [Introduction to Python](./introduction_to_python/)
 - [Intermediate Python](./intermediate_python/)
 - [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
-- Intermediate Importing Data in Python
+- [Intermediate Importing Data in Python](./intermediate_importing_data_in_python/)
 - [Understanding Cloud Computing](./understanding_cloud_computing/)
 - Cleaning Data in Python
 - Writing Efficient Python Code

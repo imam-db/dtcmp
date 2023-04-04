@@ -9,7 +9,7 @@
 - Introduction to Data Visualization with Matplotlib
 - Data Manipulation with Python
 - [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
-- Intermediate Importing Data in Python
+- [Intermediate Importing Data in Python](./intermediate_importing_data_in_python/)
 - Cleaning Data in Python
 - Importing and Cleaning Data with Python
 - Exploring and Analyzing Data in Python
