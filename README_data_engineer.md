@@ -41,7 +41,7 @@
 - [Understanding Cloud Computing](./understanding_cloud_computing/)
 - [Cleaning Data in Python](./cleaning_data_in_python/)
 - [Writing Efficient Python Code](./writing_eficient_python_code/)
-- Streamlined Data Ingestion with Pandas
+- [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
 - Designing a Bank Marketing Database
 - Understanding Data Visualization
 - Introduction to Git
