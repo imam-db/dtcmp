@@ -44,5 +44,5 @@
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
 - Designing a Bank Marketing Database
 - Understanding Data Visualization
-- Introduction to Git
+- [Introduction to Git](./introduction_to_git/)
 - Software Engineering for Data Scientist in Python
