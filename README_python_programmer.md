@@ -12,7 +12,7 @@
 - Web Scraping in Python
 - [Writing Functions in Python](./writing_functions_in_python/)
 - [Introduction to Shell](./introduction_to_shell/)
-- Introduction to Git
+- [Introduction to Git](./introduction_to_git/)
 - Software Engineering for Data Scientist in Python
 - Developing Python Packages
 - [Unit Testing for Data Science in Python](./unit_testing_for_data_science_in_python/)

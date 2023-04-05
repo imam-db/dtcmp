@@ -43,6 +43,6 @@
 - [Writing Efficient Python Code](./writing_eficient_python_code/)
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
 - Designing a Bank Marketing Database
-- Understanding Data Visualization
+- [Understanding Data Visualization](./understanding_data_visualization/)
 - [Introduction to Git](./introduction_to_git/)
 - Software Engineering for Data Scientist in Python
