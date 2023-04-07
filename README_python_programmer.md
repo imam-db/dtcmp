@@ -13,7 +13,7 @@
 - [Writing Functions in Python](./writing_functions_in_python/)
 - [Introduction to Shell](./introduction_to_shell/)
 - [Introduction to Git](./introduction_to_git/)
-- Software Engineering for Data Scientist in Python
+- [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
 - Developing Python Packages
 - [Unit Testing for Data Science in Python](./unit_testing_for_data_science_in_python/)
 - [Object Oriented Programming in Python](./object_oriented_programming_in_python/)

@@ -45,4 +45,4 @@
 - Designing a Bank Marketing Database
 - [Understanding Data Visualization](./understanding_data_visualization/)
 - [Introduction to Git](./introduction_to_git/)
-- Software Engineering for Data Scientist in Python
+- [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
