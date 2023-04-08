@@ -15,7 +15,7 @@
 - [Object Oriented Programming in Python](./object_oriented_programming_in_python/)
 - [Introduction to Airflow in Python](./introduction_to_airflow_in_python/)
 - [Introduction to PySpark](./introduction_to_pyspark/)
-- Introduction to AWS Boto in Python
+- [Introduction to AWS Boto in Python](./introduction_to_aws_boto_in_python/)
 - Data Analysis in SQL (PostgreSQL)
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - [Database Design](./database_design/)
