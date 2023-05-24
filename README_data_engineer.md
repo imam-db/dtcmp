@@ -16,7 +16,7 @@
 - [Introduction to Airflow in Python](./introduction_to_airflow_in_python/)
 - [Introduction to PySpark](./introduction_to_pyspark/)
 - [Introduction to AWS Boto in Python](./introduction_to_aws_boto_in_python/)
-- Data Analysis in SQL (PostgreSQL)
+- Data Analysis in SQL (PostgreSQL) -- Assesment
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - [Database Design](./database_design/)
 - Introduction to Scala
@@ -42,7 +42,7 @@
 - [Cleaning Data in Python](./cleaning_data_in_python/)
 - [Writing Efficient Python Code](./writing_eficient_python_code/)
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
-- Designing a Bank Marketing Database
+- Designing a Bank Marketing Database -- Project
 - [Understanding Data Visualization](./understanding_data_visualization/)
 - [Introduction to Git](./introduction_to_git/)
 - [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
