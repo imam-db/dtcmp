@@ -20,7 +20,7 @@
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - [Database Design](./database_design/)
 - [Introduction to Scala](./introduction_to_scala/)
-- Big Data Fundamentals with PySpark
+- [Big Data Fundamentals with PySpark](./big_data_fundamental_with_pyspark/)
 - Cleaning Data with PySpark
 - Introduction to MongoDB in Python
 
