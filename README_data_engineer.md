@@ -22,7 +22,7 @@
 - [Introduction to Scala](./introduction_to_scala/)
 - [Big Data Fundamentals with PySpark](./big_data_fundamental_with_pyspark/)
 - [Cleaning Data with PySpark](./cleaning_data_with_pyspark/)
-- Introduction to MongoDB in Python
+- [Introduction to MongoDB in Python](./introduction_to_mongodb_in_python/)
 
 
 
