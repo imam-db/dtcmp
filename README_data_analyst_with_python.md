@@ -11,8 +11,8 @@
 - [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
 - [Intermediate Importing Data in Python](./intermediate_importing_data_in_python/)
 - [Cleaning Data in Python](./cleaning_data_in_python/)
-- Importing and Cleaning Data with Python
-- Exploring and Analyzing Data in Python
+- Importing and Cleaning Data with Python -- Assessment
+- [Exploring and Analyzing Data in Python](./exploring_and_analyzing_data_in_python/)
 - Analyze Police Activity with Pandas
 - Intermediate SQL Queries
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
@@ -29,7 +29,7 @@
 - [Introduction to Statistics in Python](./introduction_to_statistics_in_python/)
 - Introduction to Data Visualization with Seaborn
 - Data Manipulation with Python
-- Importing and Cleaning Data with Python
+- Importing and Cleaning Data with Python -- Assessment
 - Exploratory Data Analysis with Python
 - Sampling in Python
 - Hypothesis Testing in Python
