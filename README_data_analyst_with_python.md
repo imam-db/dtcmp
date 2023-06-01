@@ -7,7 +7,7 @@
 - [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - [Joining Data with Pandas](./joining_data_with_pandas/)
 - Introduction to Data Visualization with Matplotlib
-- Data Manipulation with Python
+- Data Manipulation with Python -- Assessment
 - [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
 - [Intermediate Importing Data in Python](./intermediate_importing_data_in_python/)
 - [Cleaning Data in Python](./cleaning_data_in_python/)
@@ -28,7 +28,7 @@
 - [Joining Data with Pandas](./joining_data_with_pandas/)
 - [Introduction to Statistics in Python](./introduction_to_statistics_in_python/)
 - Introduction to Data Visualization with Seaborn
-- Data Manipulation with Python
+- Data Manipulation with Python -- Assessment
 - Importing and Cleaning Data with Python -- Assessment
 - Exploratory Data Analysis with Python
 - Sampling in Python
