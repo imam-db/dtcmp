@@ -30,6 +30,6 @@
 - Introduction to Data Visualization with Seaborn
 - Data Manipulation with Python -- Assessment
 - Importing and Cleaning Data with Python -- Assessment
-- Exploratory Data Analysis with Python
+- [Exploratory Data Analysis in Python](./exploratory_data_anaylisis_in_python/)
 - Sampling in Python
 - Hypothesis Testing in Python
