@@ -4,7 +4,7 @@
 
 - [Introduction to Data Science in Python](./introduction_to_data_science_in_python/)
 - [Intermediate Python](./intermediate_python/)
-- Data Manipulation with Pandas
+- [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - Joining Data with Pandas
 - Introduction to Data Visualization with Matplotlib
 - Data Manipulation with Python
@@ -24,7 +24,7 @@
 
 - [Introduction to Python](./introduction_to_python/)
 - [Intermediate Python](./intermediate_python/)
-- Data Manipulation with Pandas
+- [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - Joining Data with Pandas
 - [Introduction to Statistics in Python](./introduction_to_statistics_in_python/)
 - Introduction to Data Visualization with Seaborn

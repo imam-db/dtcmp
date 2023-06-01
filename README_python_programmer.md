@@ -2,7 +2,7 @@
 
 - [Introduction to Data Science in Python](./introduction_to_data_science_in_python/)
 - [Intermediate Python](./intermediate_python/)
-- Data Manipulation with Pandas
+- [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Data Types for Data Science in Python
