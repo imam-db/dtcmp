@@ -7,11 +7,11 @@
 - [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - [Joining Data with Pandas](./joining_data_with_pandas/)
 - Introduction to Data Visualization with Matplotlib
-- Data Manipulation with Python -- Assessment
+- [Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python) -- Assessment
 - [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
 - [Intermediate Importing Data in Python](./intermediate_importing_data_in_python/)
 - [Cleaning Data in Python](./cleaning_data_in_python/)
-- Importing and Cleaning Data with Python -- Assessment
+- [Importing and Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python) -- Assessment
 - [Exploring and Analyzing Data in Python](./exploring_and_analyzing_data_in_python/)
 - Analyze Police Activity with Pandas
 - Intermediate SQL Queries
@@ -28,8 +28,8 @@
 - [Joining Data with Pandas](./joining_data_with_pandas/)
 - [Introduction to Statistics in Python](./introduction_to_statistics_in_python/)
 - Introduction to Data Visualization with Seaborn
-- Data Manipulation with Python -- Assessment
-- Importing and Cleaning Data with Python -- Assessment
+- [Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python) -- Assessment
+- [Importing and Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python) -- Assessment
 - [Exploratory Data Analysis in Python](./exploratory_data_anaylisis_in_python/)
 - Sampling in Python
 - Hypothesis Testing in Python
