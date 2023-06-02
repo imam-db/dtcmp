@@ -42,7 +42,7 @@
 - [Cleaning Data in Python](./cleaning_data_in_python/)
 - [Writing Efficient Python Code](./writing_eficient_python_code/)
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
-- [Designing a Bank Marketing Database](/https://app.datacamp.com/learn/projects/1613) -- Project
+- [Designing a Bank Marketing Database](https://app.datacamp.com/learn/projects/1613) -- Project
 - [Understanding Data Visualization](./understanding_data_visualization/)
 - [Introduction to Git](./introduction_to_git/)
 - [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
