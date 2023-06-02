@@ -16,7 +16,7 @@
 - [Introduction to Airflow in Python](./introduction_to_airflow_in_python/)
 - [Introduction to PySpark](./introduction_to_pyspark/)
 - [Introduction to AWS Boto in Python](./introduction_to_aws_boto_in_python/)
-- Data Analysis in SQL (PostgreSQL) -- Assessment
+- [Data Analysis in SQL (PostgreSQL)](https://assessment-v2.datacamp.com/exploratory-analysis-postgres) -- Assessment
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - [Database Design](./database_design/)
 - [Introduction to Scala](./introduction_to_scala/)
@@ -42,7 +42,7 @@
 - [Cleaning Data in Python](./cleaning_data_in_python/)
 - [Writing Efficient Python Code](./writing_eficient_python_code/)
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
-- Designing a Bank Marketing Database -- Project
+- [Designing a Bank Marketing Database](/https://app.datacamp.com/learn/projects/1613) -- Project
 - [Understanding Data Visualization](./understanding_data_visualization/)
 - [Introduction to Git](./introduction_to_git/)
 - [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
