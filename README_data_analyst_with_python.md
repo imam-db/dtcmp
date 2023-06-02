@@ -27,7 +27,7 @@
 - [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - [Joining Data with Pandas](./joining_data_with_pandas/)
 - [Introduction to Statistics in Python](./introduction_to_statistics_in_python/)
-- Introduction to Data Visualization with Seaborn
+- [Introduction to Data Visualization with Seaborn](./introduction_to_data_visualization_with_seaborn/)
 - [Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python) -- Assessment
 - [Importing and Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python) -- Assessment
 - [Exploratory Data Analysis in Python](./exploratory_data_anaylisis_in_python/)
