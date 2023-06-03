@@ -6,7 +6,7 @@
 - [Intermediate Python](./intermediate_python/)
 - [Data Manipulation with Pandas](./data_manipulation_with_pandas/)
 - [Joining Data with Pandas](./joining_data_with_pandas/)
-- Introduction to Data Visualization with Matplotlib
+- [Introduction to Data Visualization with Matplotlib](./introduction_to_data_visualization_with_matplotlib/)
 - [Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python) -- Assessment
 - [Introduction to Importing Data in Python](./introduction_to_importing_data_in_python/)
 - [Intermediate Importing Data in Python](./intermediate_importing_data_in_python/)
