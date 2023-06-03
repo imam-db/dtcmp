@@ -31,5 +31,5 @@
 - [Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python) -- Assessment
 - [Importing and Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python) -- Assessment
 - [Exploratory Data Analysis in Python](./exploratory_data_anaylisis_in_python/)
-- Sampling in Python
+- [Sampling in Python](./sampling_in_python/)
 - Hypothesis Testing in Python
