@@ -13,7 +13,7 @@
 - [Cleaning Data in Python](./cleaning_data_in_python/)
 - [Importing and Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python) -- Assessment
 - [Exploring and Analyzing Data in Python](./exploring_and_analyzing_data_in_python/)
-- Analyze Police Activity with Pandas
+- [Analyze Police Activity with Pandas](./analyzing_police_activity_with_pandas/)
 - Intermediate SQL Queries
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
