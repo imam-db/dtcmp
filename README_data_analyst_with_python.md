@@ -18,7 +18,7 @@
 - [Streamlined Data Ingestion with Pandas](./streamlined_data_ingestion_with_pandas/)
 - [Introduction to Relational Databases in SQL](./introduction_to_relational_databases_in_sql/)
 - [SQL for Joining Data](./sql_for_joining_data/)
-- Introduction to Databases in Python
+- [Introduction to Databases in Python](./introduction_to_databases_in_python/)
 
 [New](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
 
