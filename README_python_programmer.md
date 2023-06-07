@@ -9,7 +9,7 @@
 - [Writing Efficient Code in Python](./writing_eficient_python_code/)
 - [Working with Dates and Times in Python](./working_with_dates_and_times_in_python/)
 - [Regular Expressions in Python](./regular_expressions_in_python/)
-- Web Scraping in Python
+- [Web Scraping in Python](./web_scraping_in_python/)
 - [Writing Functions in Python](./writing_functions_in_python/)
 - [Introduction to Shell](./introduction_to_shell/)
 - [Introduction to Git](./introduction_to_git/)
