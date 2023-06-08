@@ -4,4 +4,4 @@
 
 ### [Data Engineer](./README_data_engineer.md) ✔️
 
-### [Python Programmer](./README_python_programmer.md) ⏳
+### [Python Programmer](./README_python_programmer.md) ✔️
