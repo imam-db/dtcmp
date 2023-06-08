@@ -14,6 +14,6 @@
 - [Introduction to Shell](./introduction_to_shell/)
 - [Introduction to Git](./introduction_to_git/)
 - [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
-- Developing Python Packages
+- [Developing Python Packages](./developing_python_packages/)
 - [Unit Testing for Data Science in Python](./unit_testing_for_data_science_in_python/)
 - [Object Oriented Programming in Python](./object_oriented_programming_in_python/)
