@@ -7,3 +7,4 @@
 - [Data Visualization in Spreadsheets](./data_visualization_in_spreadsheets/)
 - [Introduction to ChatGPT](./introduction_to_chatgpt/)
 - [Introduction to Data Ethics](./introduction_to_data_ethics/)
+- [Forming Analytical Questions](./forming_analytical_questions/)
