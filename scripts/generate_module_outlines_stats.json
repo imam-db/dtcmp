@@ -1,0 +1,31 @@
+{
+  "snapshot": "2026-10-30",
+  "source": "lessons_all.txt",
+  "skipped_courses": 19,
+  "managed_courses": 757,
+  "chapters": 2713,
+  "lessons": 30176,
+  "root_folders": 33,
+  "module_folders": 724,
+  "lessons_files": 757,
+  "topics": {
+    "Applied Finance": 37,
+    "Artificial Intelligence": 142,
+    "Cloud": 119,
+    "Data Engineering": 32,
+    "Data Literacy": 20,
+    "Data Management": 11,
+    "Data Manipulation": 69,
+    "Data Preparation": 24,
+    "Data Visualization": 51,
+    "Data Warehouse": 1,
+    "Exploratory Data Analysis": 11,
+    "Importing & Cleaning Data": 2,
+    "Leadership": 2,
+    "Machine Learning": 66,
+    "Other": 5,
+    "Probability & Statistics": 73,
+    "Programming": 76,
+    "Reporting": 16
+  }
+}
