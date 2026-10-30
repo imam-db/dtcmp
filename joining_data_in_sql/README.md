@@ -17,3 +17,8 @@
 ## [Subqueries](./04_subqueries/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

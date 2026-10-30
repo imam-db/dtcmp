@@ -17,3 +17,8 @@
 ## [Basic Pandas Optimizations](./04_basic_pandas_optimizations/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

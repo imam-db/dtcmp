@@ -13,3 +13,8 @@
 ## [Cloud Providers and Case Studies](./03_cloud_providers_and_case_studies/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

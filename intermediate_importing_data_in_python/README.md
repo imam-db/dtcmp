@@ -13,3 +13,8 @@
 ## [Diving deep into the Twitter API](./03_diving_deep_into_the_twitter_api/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

@@ -9,3 +9,8 @@
 ## [Querying](./02_querying/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

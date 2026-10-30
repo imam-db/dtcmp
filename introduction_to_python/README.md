@@ -17,3 +17,8 @@
 ## [Numpy](./04_numpy/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

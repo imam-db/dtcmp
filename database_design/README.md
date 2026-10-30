@@ -17,3 +17,8 @@
 ## [Database Management](./04_database_management/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

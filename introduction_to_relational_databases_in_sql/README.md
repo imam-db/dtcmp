@@ -17,3 +17,8 @@
 ## [Glue together tables with foreign keys ](./04_glue_together_tables_with_foreign_keys/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

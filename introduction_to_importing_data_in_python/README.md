@@ -13,3 +13,8 @@
 ## [Working with relational databases in python](./03_working_with_relational_databases_in_python/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

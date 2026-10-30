@@ -17,3 +17,8 @@
 ## [Importing JSON Data and Working with APIs](./04_importing_json_data_and_working_with_apis/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

@@ -17,3 +17,8 @@
 ## [99 problems but a plot ain't one of them](./04_99_problems_but_a_plot_aint_one_of_them/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

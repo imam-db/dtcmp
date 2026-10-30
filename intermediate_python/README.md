@@ -21,3 +21,8 @@
 ## [Case Study: Hacker Statistics](./05_case_study_hacker_statistics/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

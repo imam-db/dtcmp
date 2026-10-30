@@ -17,3 +17,8 @@
 ## [Collaborating with Git](./04_collaborating_with_git/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

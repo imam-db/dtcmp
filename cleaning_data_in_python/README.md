@@ -17,3 +17,8 @@
 ## [Record Linkage](./04_record_linkage/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

@@ -13,3 +13,8 @@
 ## [Moving and Processing Data](./03_moving_and_processing_data/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

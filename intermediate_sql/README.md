@@ -17,3 +17,8 @@
 ## [Sorting and Grouping](./04_sorting_and_grouping/)
 
 - [ ] Notes (own words)
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
+

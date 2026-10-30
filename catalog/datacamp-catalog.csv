@@ -1,0 +1,946 @@
+type,name,technology,topic,url
+career_track,Associate AI Engineer for Data Scientists,Python,,https://www.datacamp.com/tracks/associate-ai-engineer-for-data-scientists
+career_track,Associate AI Engineer for Developers,Python,,https://www.datacamp.com/tracks/associate-ai-engineer-for-developers
+career_track,Associate Data Analyst,SQL,,https://www.datacamp.com/tracks/associate-data-analyst-in-sql
+career_track,Associate Data Engineer,SQL,,https://www.datacamp.com/tracks/associate-data-engineer-in-sql
+career_track,Associate Data Engineer,Databricks,,https://www.datacamp.com/tracks/associate-data-engineer-in-databricks
+career_track,Associate Data Engineer,Snowflake,,https://www.datacamp.com/tracks/associate-data-engineer-in-snowflake
+career_track,Associate Data Scientist,Python,,https://www.datacamp.com/tracks/associate-data-scientist-in-python
+career_track,Associate Data Scientist,R,,https://www.datacamp.com/tracks/associate-data-scientist-in-r
+career_track,Associate Python Developer,Python,,https://www.datacamp.com/tracks/associate-python-developer
+career_track,Data Analyst,Power BI,,https://www.datacamp.com/tracks/data-analyst-in-power-bi
+career_track,Data Analyst,Python,,https://www.datacamp.com/tracks/data-analyst-with-python
+career_track,Data Analyst,R,,https://www.datacamp.com/tracks/data-analyst-with-r
+career_track,Data Analyst,Tableau,,https://www.datacamp.com/tracks/data-analyst-in-tableau
+career_track,Data Analyst,Databricks,,https://www.datacamp.com/tracks/data-analyst-in-databricks
+career_track,Data Engineer,Python,,https://www.datacamp.com/tracks/data-engineer-in-python
+career_track,Data Engineer,Java,,https://www.datacamp.com/tracks/data-engineer-in-java
+career_track,Data Scientist,Python,,https://www.datacamp.com/tracks/data-scientist-in-python
+career_track,Data Scientist,R,,https://www.datacamp.com/tracks/data-scientist-in-r
+career_track,Google Associate Cloud Engineer,Google Cloud,,https://www.datacamp.com/tracks/google-associate-cloud-engineer
+career_track,Java Developer,Java,,https://www.datacamp.com/tracks/java-developer
+career_track,Machine Learning Engineer,Python,,https://www.datacamp.com/tracks/machine-learning-engineer
+career_track,Machine Learning Scientist,Python,,https://www.datacamp.com/tracks/machine-learning-scientist-with-python
+career_track,Machine Learning Scientist,R,,https://www.datacamp.com/tracks/machine-learning-scientist-with-r
+career_track,Microsoft Azure Developer Associate,Azure,,https://www.datacamp.com/tracks/microsoft-azure-developer-associate
+career_track,Professional Cloud Developer,Google Cloud,,https://www.datacamp.com/tracks/professional-cloud-developer
+career_track,Professional Data Engineer,Python,,https://www.datacamp.com/tracks/professional-data-engineer
+career_track,Professional Machine Learning Engineer with Google Cloud,Google Cloud,,https://www.datacamp.com/tracks/professional-machine-learning-engineer-with-google-cloud
+career_track,Python Developer,Python,,https://www.datacamp.com/tracks/python-programmer
+career_track,Quantitative Analyst,R,,https://www.datacamp.com/tracks/quantitative-analyst-with-r
+career_track,R Developer,R,,https://www.datacamp.com/tracks/r-programmer
+career_track,SQL Server Developer,SQL,,https://www.datacamp.com/tracks/sql-server-developer
+career_track,Statistician,R,,https://www.datacamp.com/tracks/statistician-with-r
+skill_track,AI Agent Fundamentals,,,https://www.datacamp.com/tracks/ai-agent-fundamentals
+skill_track,AI Business Fundamentals,,,https://www.datacamp.com/tracks/ai-business-fundamentals
+skill_track,AI Engineering with LangChain,Python,,https://www.datacamp.com/tracks/ai-engineering-with-langchain
+skill_track,AI for Software Engineering,,,https://www.datacamp.com/tracks/ai-for-software-engineering
+skill_track,AI Fundamentals,,,https://www.datacamp.com/tracks/ai-fundamentals
+skill_track,Airflow Fundamentals,Airflow,,https://www.datacamp.com/tracks/airflow-fundamentals
+skill_track,Alteryx Fundamentals,Alteryx,,https://www.datacamp.com/tracks/alteryx-fundamentals
+skill_track,Analyzing Genomic Data,R,,https://www.datacamp.com/tracks/analyzing-genomic-data-in-r
+skill_track,Applied Finance,Python,,https://www.datacamp.com/tracks/applied-finance-in-python
+skill_track,Applied Finance,R,,https://www.datacamp.com/tracks/applied-finance-in-r
+skill_track,Applied Statistics,Python,,https://www.datacamp.com/tracks/applied-statistics
+skill_track,Artificial Intelligence (AI) Leadership,,,https://www.datacamp.com/tracks/artificial-intelligence-ai-leadership
+skill_track,AWS Cloud Practitioner (CLF-C02),AWS,,https://www.datacamp.com/tracks/aws-cloud-practitioner-clf-c02
+skill_track,Big Data,R,,https://www.datacamp.com/tracks/big-data-with-r
+skill_track,Big Data with PySpark,Python,,https://www.datacamp.com/tracks/big-data-with-pyspark
+skill_track,Build and Modernize Applications With Generative AI,Google Cloud,,https://www.datacamp.com/tracks/build-and-modernize-applications-with-generative-ai
+skill_track,Building APIs in Python,Python,,https://www.datacamp.com/tracks/building-apis-in-python
+skill_track,Building Applications with OOP,Python,,https://www.datacamp.com/tracks/building-applications-with-oop
+skill_track,ChatGPT Fundamentals,ChatGPT,,https://www.datacamp.com/tracks/chatgpt-fundamentals
+skill_track,Containerization and Virtualization,Docker,,https://www.datacamp.com/tracks/containerization-and-virtualization
+skill_track,Data Analysis,Excel,,https://www.datacamp.com/tracks/data-analysis-with-excel-power-tools
+skill_track,Data Governance Fundamentals,,,https://www.datacamp.com/tracks/data-governance-fundamentals
+skill_track,Data Literacy Professional,,,https://www.datacamp.com/tracks/data-literacy-professional
+skill_track,Data Manipulation,Python,,https://www.datacamp.com/tracks/data-manipulation-with-python
+skill_track,Data Manipulation,R,,https://www.datacamp.com/tracks/data-manipulation-with-r
+skill_track,Data Processing and Pipeline Optimization,Python,,https://www.datacamp.com/tracks/data-processing-pipeline-optimization-polars
+skill_track,Data Skills for Business,,,https://www.datacamp.com/tracks/foundational-data-skills-for-business-leaders
+skill_track,Data Storytelling,,,https://www.datacamp.com/tracks/data-storytelling
+skill_track,Data Visualization,Python,,https://www.datacamp.com/tracks/data-visualization-with-python
+skill_track,Data Visualization,R,,https://www.datacamp.com/tracks/data-visualization-with-r
+skill_track,Data Visualization with Plotly and Dash,Python,,https://www.datacamp.com/tracks/data-visualization-with-plotly-and-dash
+skill_track,Databricks Genie Fundamentals,Databricks,,https://www.datacamp.com/tracks/databricks-genie-fundamentals
+skill_track,dbt Fundamentals,dbt,,https://www.datacamp.com/tracks/dbt-fundamentals
+skill_track,Decision Science Fundamentals,,,https://www.datacamp.com/tracks/decision-science-fundamentals
+skill_track,Deep Learning,PyTorch,,https://www.datacamp.com/tracks/deep-learning-in-python
+skill_track,Deploy & Manage Generative AI Models,Google Cloud,,https://www.datacamp.com/tracks/deploy-manage-generative-ai-models
+skill_track,Deploy Production-Ready Agents,Google Cloud,,https://www.datacamp.com/tracks/deploy-production-ready-agents
+skill_track,Design in Power BI,Power BI,,https://www.datacamp.com/tracks/design-in-power-bi
+skill_track,Develop Agents with Agent Development Kit (ADK),Google Cloud,,https://www.datacamp.com/tracks/develop-agents-with-agent-development-kit-adk
+skill_track,Developing AI Applications,Python,,https://www.datacamp.com/tracks/developing-ai-applications
+skill_track,Developing Applications with LangChain,Python,,https://www.datacamp.com/tracks/developing-applications-with-langchain
+skill_track,Developing Large Language Models,Python,,https://www.datacamp.com/tracks/developing-large-language-models
+skill_track,Essentials for Snowflake SnowPro® Core Certification,Snowflake,,https://www.datacamp.com/tracks/essentials-for-snowflake-snowpro-core-certification
+skill_track,EU AI Act Fundamentals,,,https://www.datacamp.com/tracks/eu-ai-act-fundamentals
+skill_track,Excel Fundamentals,Excel,,https://www.datacamp.com/tracks/excel-fundamentals
+skill_track,Finance Fundamentals,Python,,https://www.datacamp.com/tracks/finance-fundamentals-in-python
+skill_track,Finance Fundamentals,Python,,https://www.datacamp.com/tracks/finance-fundamentals-with-cfi
+skill_track,Finance Fundamentals,Google Sheets,,https://www.datacamp.com/tracks/finance-fundamentals-in-spreadsheets
+skill_track,Finance Fundamentals,R,,https://www.datacamp.com/tracks/finance-fundamentals-in-r
+skill_track,Financial Reporting,Power BI,,https://www.datacamp.com/tracks/financial-reporting
+skill_track,GDPR and Data Privacy Fundamentals,,,https://www.datacamp.com/tracks/gdpr-and-data-privacy-fundamentals
+skill_track,Git Fundamentals,Git,,https://www.datacamp.com/tracks/git-fundamentals
+skill_track,GitHub Copilot Fundamentals (GH-300),GitHub,,https://www.datacamp.com/tracks/github-copilot-fundamentals-gh-300
+skill_track,GitHub Foundations,Git,,https://www.datacamp.com/tracks/github-foundations
+skill_track,Google Cloud AI Infrastructure,Google Cloud,,https://www.datacamp.com/tracks/google-cloud-ai-infrastructure
+skill_track,Google Cloud Data Engineer,Google Cloud,,https://www.datacamp.com/tracks/google-cloud-data-engineer
+skill_track,Google Cloud Digital Leader,Google Cloud,,https://www.datacamp.com/tracks/google-cloud-digital-leader
+skill_track,Google Cloud Generative AI Leader,Google Cloud,,https://www.datacamp.com/tracks/google-cloud-generative-ai-leader
+skill_track,Google Hybrid and Multi-Cloud Architect,Google Cloud,,https://www.datacamp.com/tracks/google-hybrid-and-multi-cloud-architect
+skill_track,Google Sheets Fundamentals,Google Sheets,,https://www.datacamp.com/tracks/spreadsheet-fundamentals
+skill_track,Google Workspace End User,Google Cloud,,https://www.datacamp.com/tracks/google-workspace-end-user
+skill_track,Google Workspace with Gemini,Google Cloud,,https://www.datacamp.com/tracks/google-workspace-with-gemini
+skill_track,Hugging Face Fundamentals,Python,,https://www.datacamp.com/tracks/hugging-face-fundamentals
+skill_track,Image Processing,Python,,https://www.datacamp.com/tracks/image-processing
+skill_track,Importing & Cleaning Data,Python,,https://www.datacamp.com/tracks/importing-cleaning-data-with-python
+skill_track,Importing & Cleaning Data,R,,https://www.datacamp.com/tracks/importing-cleaning-data-with-r
+skill_track,Interactive Data Visualization,R,,https://www.datacamp.com/tracks/interactive-data-visualization-in-r
+skill_track,Intermediate Google Sheets,Google Sheets,,https://www.datacamp.com/tracks/intermediate-spreadsheets
+skill_track,Intermediate Tidyverse Toolbox,R,,https://www.datacamp.com/tracks/intermediate-tidyverse-toolbox
+skill_track,Introduction to Agents and Google’s Agent Ecosystem,Google Cloud,,https://www.datacamp.com/tracks/introduction-to-agents-and-google-s-agent-ecosystem
+skill_track,Java Fundamentals,Java,,https://www.datacamp.com/tracks/java-fundamentals
+skill_track,Julia Fundamentals,Julia,,https://www.datacamp.com/tracks/julia-fundamentals
+skill_track,Keras Fundamentals,Python,,https://www.datacamp.com/tracks/keras-fundamentals
+skill_track,KNIME Fundamentals,KNIME,,https://www.datacamp.com/tracks/knime-fundamentals
+skill_track,Llama Fundamentals,Llama,,https://www.datacamp.com/tracks/llama-fundamentals
+skill_track,Machine Learning Fundamentals,Python,,https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python
+skill_track,Machine Learning Fundamentals,R,,https://www.datacamp.com/tracks/machine-learning-fundamentals
+skill_track,Machine Learning in Production,Python,,https://www.datacamp.com/tracks/machine-learning-in-production
+skill_track,Marketing Analytics,Python,,https://www.datacamp.com/tracks/marketing-analytics-with-python
+skill_track,Marketing Analytics,R,,https://www.datacamp.com/tracks/marketing-analytics-with-r
+skill_track,Microsoft Azure Fundamentals (AZ-900),Azure,,https://www.datacamp.com/tracks/microsoft-azure-fundamentals-az-900
+skill_track,MLOps Fundamentals,,,https://www.datacamp.com/tracks/mlops-fundamentals
+skill_track,Natural Language Processing,Python,,https://www.datacamp.com/tracks/natural-language-processing-in-python
+skill_track,OpenAI Fundamentals,OpenAI,,https://www.datacamp.com/tracks/openai-fundamentals
+skill_track,Power BI Fundamentals,Power BI,,https://www.datacamp.com/tracks/power-bi-fundamentals
+skill_track,Python Data Fundamentals,Python,,https://www.datacamp.com/tracks/python-data-fundamentals
+skill_track,Python for Software Engineering,Python,,https://www.datacamp.com/tracks/python-for-software-engineering
+skill_track,Python Programming,Python,,https://www.datacamp.com/tracks/python-programming
+skill_track,Python Programming Fundamentals,Python,,https://www.datacamp.com/tracks/python-programming-fundamentals
+skill_track,Python Programming Toolbox,Python,,https://www.datacamp.com/tracks/python-programming-toolbox
+skill_track,R Programming Fundamentals,R,,https://www.datacamp.com/tracks/r-programming-fundamentals
+skill_track,Reinforcement Learning,Python,,https://www.datacamp.com/tracks/reinforcement-learning
+skill_track,Responsible AI Foundations,,,https://www.datacamp.com/tracks/responsible-ai-foundations
+skill_track,Scale Agents Across the Enterprise,Google Cloud,,https://www.datacamp.com/tracks/scale-agents-across-the-enterprise
+skill_track,Shiny Fundamentals,R,,https://www.datacamp.com/tracks/shiny-fundamentals-with-r
+skill_track,Sigma Fundamentals,Sigma,,https://www.datacamp.com/tracks/sigma-fundamentals
+skill_track,Snowflake AI Fundamentals,Snowflake,,https://www.datacamp.com/tracks/snowflake-ai-fundamentals
+skill_track,Snowflake Foundations,Snowflake,,https://www.datacamp.com/tracks/snowflake-foundations
+skill_track,SQL for Business Analysts,SQL,,https://www.datacamp.com/tracks/sql-for-business-analysts
+skill_track,SQL for Database Administrators,SQL,,https://www.datacamp.com/tracks/sql-for-database-administrators
+skill_track,SQL Fundamentals,SQL,,https://www.datacamp.com/tracks/sql-fundamentals
+skill_track,SQL Server for Database Administrators,SQL,,https://www.datacamp.com/tracks/sql-server-for-database-administrators
+skill_track,SQL Server Fundamentals,SQL,,https://www.datacamp.com/tracks/sql-server-fundamentals
+skill_track,Statistical Inference,R,,https://www.datacamp.com/tracks/statistical-inference-with-r
+skill_track,Statistics Fundamentals,Python,,https://www.datacamp.com/tracks/statistics-fundamentals-with-python
+skill_track,Statistics Fundamentals,R,,https://www.datacamp.com/tracks/learn-statistics-with-r
+skill_track,Supervised Machine Learning,Python,,https://www.datacamp.com/tracks/supervised-machine-learning-in-python
+skill_track,Supervised Machine Learning,R,,https://www.datacamp.com/tracks/supervised-machine-learning-in-r
+skill_track,Tableau Fundamentals,Tableau,,https://www.datacamp.com/tracks/tableau-fundamentals
+skill_track,Text Mining,R,,https://www.datacamp.com/tracks/text-mining-with-r
+skill_track,Tidyverse Fundamentals,R,,https://www.datacamp.com/tracks/tidyverse-fundamentals
+skill_track,Time Series,Python,,https://www.datacamp.com/tracks/time-series-with-python
+skill_track,Time Series,R,,https://www.datacamp.com/tracks/time-series-with-r
+skill_track,Understanding Data Topics,,,https://www.datacamp.com/tracks/understanding-data-topics
+certification,AI Engineer for Data Scientists Associate,Python,,https://www.datacamp.com/certification/ai-engineer-for-data-scientists-associate
+certification,AI Engineer for Developers Associate,Python,,https://www.datacamp.com/certification/ai-engineer-for-developers-associate
+certification,AI Fundamentals,,,https://www.datacamp.com/certification/ai-fundamentals
+certification,AI Leadership Fundamentals,,,https://www.datacamp.com/certification/ai-leadership-fundamentals
+certification,Alteryx Fundamentals,Alteryx,,https://www.datacamp.com/certification/alteryx-fundamentals
+certification,AWS Cloud Practitioner,AWS,,https://www.datacamp.com/certification/aws-cloud-practitioner
+certification,Azure Fundamentals,Azure,,https://www.datacamp.com/certification/azure-fundamentals
+certification,Data Analyst Associate,,,https://www.datacamp.com/certification/data-analyst
+certification,Data Analyst in Tableau,Tableau,,https://www.datacamp.com/certification/data-analyst-in-tableau
+certification,Data Engineer Associate,,,https://www.datacamp.com/certification/data-engineer
+certification,Data Literacy,,,https://www.datacamp.com/certification/data-literacy
+certification,Data Scientist,,,https://www.datacamp.com/certification/data-scientist
+certification,EU AI Act Literacy,,,https://www.datacamp.com/certification/eu-ai-act-literacy
+certification,GitHub Copilot,GitHub,,https://www.datacamp.com/certification/github-copilot
+certification,GitHub Foundations,GitHub,,https://www.datacamp.com/certification/github-foundations
+certification,Google Cloud Digital Leader,Google Cloud,,https://www.datacamp.com/certification/google-cloud-digital-leader
+certification,Google Cloud Generative AI Leader,Google Cloud,,https://www.datacamp.com/certification/google-cloud-generative-ai-leader
+certification,KNIME Fundamentals,KNIME,,https://www.datacamp.com/certification/knime-fundamentals
+certification,Power BI Data Analyst,Power BI,,https://www.datacamp.com/certification/data-analyst-in-power-bi
+certification,Python Data Associate,Python,,https://www.datacamp.com/certification/python-data-associate
+certification,Python Developer Associate,Python,,https://www.datacamp.com/certification/python-developer
+certification,SnowPro Core,Snowflake,,https://www.datacamp.com/certification/snowpro-core
+certification,SQL Associate,SQL,,https://www.datacamp.com/certification/sql-associate
+course,Analyzing Financial Statements in Python,Python,Applied Finance,https://www.datacamp.com/courses/analyzing-financial-statements-in-python
+course,Bond Valuation and Analysis in Python,Python,Applied Finance,https://www.datacamp.com/courses/bond-valuation-and-analysis-in-python
+course,Bond Valuation and Analysis in R,R,Applied Finance,https://www.datacamp.com/courses/bond-valuation-and-analysis-in-r
+course,Case Study: Financial Analysis in KNIME,KNIME,Applied Finance,https://www.datacamp.com/courses/case-study-financial-analysis-in-knime
+course,Case Study: Mortgage Trading Analysis in Power BI,Power BI,Applied Finance,https://www.datacamp.com/courses/case-study-mortgage-trading-analysis-in-power-bi
+course,Case Study: Net Revenue Management in Excel,Excel,Applied Finance,https://www.datacamp.com/courses/case-study-net-revenue-management-in-excel
+course,Corporate Finance Fundamentals,,Applied Finance,https://www.datacamp.com/courses/corporate-finance-fundamentals
+course,Credit Risk Modeling in Python,Python,Applied Finance,https://www.datacamp.com/courses/credit-risk-modeling-in-python
+course,Credit Risk Modeling in R,R,Applied Finance,https://www.datacamp.com/courses/credit-risk-modeling-in-r
+course,Equity Valuation in R,R,Applied Finance,https://www.datacamp.com/courses/equity-valuation-in-r
+course,Financial Analysis in Power BI,Power BI,Applied Finance,https://www.datacamp.com/courses/financial-analysis-in-power-bi
+course,Financial Analytics in Google Sheets,Google Sheets,Applied Finance,https://www.datacamp.com/courses/financial-analytics-in-google-sheets
+course,Financial Forecasting in Python,Python,Applied Finance,https://www.datacamp.com/courses/financial-forecasting-in-python
+course,Financial Modeling in Excel,Excel,Applied Finance,https://www.datacamp.com/courses/financial-modeling-in-excel
+course,Financial Modeling in Google Sheets,Google Sheets,Applied Finance,https://www.datacamp.com/courses/financial-modeling-in-google-sheets
+course,Financial Trading in Python,Python,Applied Finance,https://www.datacamp.com/courses/financial-trading-in-python
+course,Financial Trading in R,R,Applied Finance,https://www.datacamp.com/courses/financial-trading-in-r
+course,GARCH Models in Python,Python,Applied Finance,https://www.datacamp.com/courses/garch-models-in-python
+course,GARCH Models in R,R,Applied Finance,https://www.datacamp.com/courses/garch-models-in-r
+course,Importing and Managing Financial Data in Python,Python,Applied Finance,https://www.datacamp.com/courses/importing-and-managing-financial-data-in-python
+course,Importing and Managing Financial Data in R,R,Applied Finance,https://www.datacamp.com/courses/importing-and-managing-financial-data-in-r
+course,Intermediate Portfolio Analysis in R,R,Applied Finance,https://www.datacamp.com/courses/intermediate-portfolio-analysis-in-r
+course,Intermediate Python for Finance,Python,Applied Finance,https://www.datacamp.com/courses/intermediate-python-for-finance
+course,Intermediate R for Finance,R,Applied Finance,https://www.datacamp.com/courses/intermediate-r-for-finance
+course,Introduction to Business Valuation,,Applied Finance,https://www.datacamp.com/courses/introduction-to-business-valuation
+course,Introduction to Financial Concepts in Python,Python,Applied Finance,https://www.datacamp.com/courses/introduction-to-financial-concepts-in-python
+course,Introduction to Financial Statements in Power BI,Power BI,Applied Finance,https://www.datacamp.com/courses/introduction-to-financial-statements-in-power-bi
+course,Introduction to Portfolio Analysis in Python,Python,Applied Finance,https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-python
+course,Introduction to Portfolio Analysis in R,R,Applied Finance,https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-r
+course,Introduction to Portfolio Risk Management in Python,Python,Applied Finance,https://www.datacamp.com/courses/introduction-to-portfolio-risk-management-in-python
+course,Introduction to Python for Finance,Python,Applied Finance,https://www.datacamp.com/courses/introduction-to-python-for-finance
+course,Introduction to R for Finance,R,Applied Finance,https://www.datacamp.com/courses/introduction-to-r-for-finance
+course,Life Insurance Products Valuation in R,R,Applied Finance,https://www.datacamp.com/courses/life-insurance-products-valuation-in-r
+course,Loan Amortization in Google Sheets,Google Sheets,Applied Finance,https://www.datacamp.com/courses/loan-amortization-in-google-sheets
+course,Math for Finance Professionals,,Applied Finance,https://www.datacamp.com/courses/math-for-finance-professionals
+course,Quantitative Risk Management in Python,Python,Applied Finance,https://www.datacamp.com/courses/quantitative-risk-management-in-python
+course,Quantitative Risk Management in R,R,Applied Finance,https://www.datacamp.com/courses/quantitative-risk-management-in-r
+course,Accelerating Your Data Work with Snowflake CoCo Desktop,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/accelerating-your-data-work-with-snowflake-coco-desktop
+course,Advanced AI-Assisted Coding for Developers,,Artificial Intelligence,https://www.datacamp.com/courses/advanced-ai-assisted-coding-for-developers
+course,Advanced Deep Learning with Keras,Python,Artificial Intelligence,https://www.datacamp.com/courses/advanced-deep-learning-with-keras
+course,Agentic Systems with LangGraph,Python,Artificial Intelligence,https://www.datacamp.com/courses/agentic-systems-with-langgraph
+course,AI Agents with Hugging Face smolagents,Python,Artificial Intelligence,https://www.datacamp.com/courses/ai-agents-with-hugging-face-smolagents
+course,AI Ethics,,Artificial Intelligence,https://www.datacamp.com/courses/ai-ethics
+course,AI for Consulting,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/ai-for-consulting
+course,AI for Data Analysts,,Artificial Intelligence,https://www.datacamp.com/courses/ai-for-data-analysts
+course,AI for Finance,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/ai-for-finance
+course,AI for Human Resources,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/ai-for-human-resources
+course,AI for Marketing,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/ai-for-marketing
+course,AI for Sales,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/ai-for-sales
+course,AI Safety and Ethics,,Artificial Intelligence,https://www.datacamp.com/courses/ai-safety-and-ethics
+course,AI Security and Risk Management,,Artificial Intelligence,https://www.datacamp.com/courses/ai-security-and-risk-management
+course,AI-Assisted Coding for Developers,,Artificial Intelligence,https://www.datacamp.com/courses/ai-assisted-coding-for-developers
+course,AI-Assisted Product Launch,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/ai-assisted-product-launch
+course,AI-Assisted Restaurant Planning,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/ai-assisted-restaurant-planning
+course,AI-Assisted Travel Planning,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/ai-assisted-travel-planning
+course,Analyzing Data with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/analyzing-data-with-claude
+course,Artificial Intelligence (AI) Strategy,,Artificial Intelligence,https://www.datacamp.com/courses/artificial-intelligence-ai-strategy
+course,Artificial Intelligence Governance,,Artificial Intelligence,https://www.datacamp.com/courses/artificial-intelligence-governance
+course,Auditing Expenses with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/auditing-expenses-with-claude
+course,Automating Release Briefs with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/automating-release-briefs-with-claude
+course,Building a Go-To-Market Strategy,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/building-a-go-to-market-strategy
+course,Building a Marketing Dashboard with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/building-a-marketing-dashboard-with-claude
+course,Building Agentic Workflows with LlamaIndex,Python,Artificial Intelligence,https://www.datacamp.com/courses/building-agentic-workflows-with-llamaindex
+course,Building Agents with Microsoft Copilot Studio,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/building-agents-with-microsoft-copilot-studio
+course,Building AI Agent Harnesses with Strands Agents,AWS,Artificial Intelligence,https://www.datacamp.com/courses/building-ai-agent-harnesses-with-strands-agents
+course,Building AI Agents with CrewAI,Python,Artificial Intelligence,https://www.datacamp.com/courses/building-ai-agents-with-crewai
+course,Building AI Agents with Google ADK,Python,Artificial Intelligence,https://www.datacamp.com/courses/building-ai-agents-with-google-adk
+course,Building AI Agents with Haystack,Python,Artificial Intelligence,https://www.datacamp.com/courses/building-ai-agents-with-haystack
+course,Building AI Agents with Snowflake,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/building-ai-agents-with-snowflake
+course,Building AI Applications with Pinecone,Python,Artificial Intelligence,https://www.datacamp.com/courses/building-ai-applications-with-pinecone
+course,Building Claude Cowork Plugins,Claude,Artificial Intelligence,https://www.datacamp.com/courses/building-claude-cowork-plugins
+course,Building Generative AI Apps to Talk to Your Data,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/building-generative-ai-apps-to-talk-to-your-data
+course,Building Marketing Workflows with n8n,n8n,Artificial Intelligence,https://www.datacamp.com/courses/building-marketing-workflows-with-n8n
+course,Building Scalable Agentic Systems,,Artificial Intelligence,https://www.datacamp.com/courses/building-scalable-agentic-systems
+course,Claude 101,Claude,Artificial Intelligence,https://www.datacamp.com/courses/claude-101
+course,Claude Code 101,Claude,Artificial Intelligence,https://www.datacamp.com/courses/claude-code-101
+course,Claude Code in Action,Claude,Artificial Intelligence,https://www.datacamp.com/courses/claude-code-in-action
+course,Cleaning Data with Generative AI,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/cleaning-data-with-generative-ai
+course,Databricks with the Python SDK,Databricks,Artificial Intelligence,https://www.datacamp.com/courses/databricks-with-the-python-sdk
+course,Deep Learning for Images with PyTorch,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/deep-learning-for-images-with-pytorch
+course,Deep Learning for Text with PyTorch,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/deep-learning-for-text-with-pytorch
+course,Deep Reinforcement Learning in Python,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/deep-reinforcement-learning-in-python
+course,Deploying AI into Production with FastAPI,FastAPI,Artificial Intelligence,https://www.datacamp.com/courses/deploying-ai-into-production-with-fastapi
+course,Designing Agentic Systems with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/designing-agentic-systems-with-langchain
+course,Developing AI Systems with the OpenAI API,OpenAI,Artificial Intelligence,https://www.datacamp.com/courses/developing-ai-systems-with-the-openai-api
+course,Developing LLM Applications with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/developing-llm-applications-with-langchain
+course,Efficient AI Model Training with PyTorch,Python,Artificial Intelligence,https://www.datacamp.com/courses/efficient-ai-model-training-with-pytorch
+course,End-to-End RAG with Weaviate,Python,Artificial Intelligence,https://www.datacamp.com/courses/end-to-end-rag-with-weaviate
+course,Explainable AI in Python,Python,Artificial Intelligence,https://www.datacamp.com/courses/explainable-ai-in-python
+course,Explainable Artificial Intelligence (XAI) Concepts,,Artificial Intelligence,https://www.datacamp.com/courses/explainable-artificial-intelligence-xai-concepts
+course,Fine-Tuning with Llama 3,Llama,Artificial Intelligence,https://www.datacamp.com/courses/fine-tuning-with-llama-3
+course,Gemini in Gmail,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/gemini-in-gmail
+course,Gemini in Google Docs,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/gemini-in-google-docs
+course,Gemini in Google Drive,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/gemini-in-google-drive
+course,Gemini in Google Meet,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/gemini-in-google-meet
+course,Gemini in Google Sheets,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/gemini-in-google-sheets
+course,Gemini in Google Slides,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/gemini-in-google-slides
+course,Generate a Study Guide,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/generate-a-study-guide
+course,Generative AI Concepts,,Artificial Intelligence,https://www.datacamp.com/courses/generative-ai-concepts
+course,Generative AI Essentials with Snowflake,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/generative-ai-essentials-with-snowflake
+course,Generative AI for Business,,Artificial Intelligence,https://www.datacamp.com/courses/generative-ai-for-business
+course,Getting Started with Snowflake CoCo Desktop,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/getting-started-with-snowflake-coco-desktop
+course,Graph RAG with LangChain and Neo4j,Python,Artificial Intelligence,https://www.datacamp.com/courses/graph-rag-with-langchain-and-neo4j
+course,Image Modeling with Keras,Python,Artificial Intelligence,https://www.datacamp.com/courses/image-modeling-with-keras
+course,Implementing AI Solutions in Business,,Artificial Intelligence,https://www.datacamp.com/courses/implementing-ai-solutions-in-business
+course,Intermediate ChatGPT,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/intermediate-chatgpt
+course,Intermediate Deep Learning with PyTorch,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/intermediate-deep-learning-with-pytorch
+course,Intermediate Power Automate,Power Platform,Artificial Intelligence,https://www.datacamp.com/courses/intermediate-power-automate
+course,Intermediate Workflow Automation with n8n,n8n,Artificial Intelligence,https://www.datacamp.com/courses/intermediate-workflow-automation-with-n8n
+course,Introduction to Agent Skills,Claude,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-agent-skills
+course,Introduction to AI Agents,,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-ai-agents
+course,Introduction to AI for Work,,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-ai-for-work
+course,Introduction to Amazon Bedrock,Python,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-amazon-bedrock
+course,Introduction to ChatGPT,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-chatgpt
+course,Introduction to Deep Learning in Python,Python,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-deep-learning-in-python
+course,Introduction to Deep Learning with Keras,Python,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-deep-learning-with-keras
+course,Introduction to Deep Learning with PyTorch,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-deep-learning-with-pytorch
+course,Introduction to Embeddings with the OpenAI API,OpenAI,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-embeddings-with-the-openai-api
+course,Introduction to Generative AI in Snowflake,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-generative-ai-in-snowflake
+course,Introduction to Google Workspace with Gemini,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-google-workspace-with-gemini
+course,Introduction to GPTs,,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-gpts
+course,Introduction to LLMs in Python,Python,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-llms-in-python
+course,Introduction to Microsoft Copilot,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-microsoft-copilot
+course,Introduction to Model Context Protocol (MCP),Python,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-model-context-protocol-mcp
+course,Introduction to Power Apps,Power Platform,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-power-apps
+course,Introduction to Power Automate,Power Platform,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-power-automate
+course,Introduction to Snowflake CoCo CLI,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-snowflake-coco-cli
+course,Introduction to Subagents,Claude,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-subagents
+course,Introduction to Workflow Automation with n8n,n8n,Artificial Intelligence,https://www.datacamp.com/courses/introduction-to-workflow-automation-with-n8n
+course,Large Language Models (LLMs) Concepts,,Artificial Intelligence,https://www.datacamp.com/courses/large-language-models-llms-concepts
+course,Large Language Models for Business,,Artificial Intelligence,https://www.datacamp.com/courses/large-language-models-for-business
+course,Lead Qualification and Scoring with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/lead-qualification-and-scoring-with-claude
+course,LLM Application Evaluation with LangSmith,Python,Artificial Intelligence,https://www.datacamp.com/courses/llm-application-evaluation-with-langsmith
+course,LLM Application Fundamentals with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/llm-application-fundamentals-with-langchain
+course,LLM Tool Use with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/llm-tool-use-with-langchain
+course,LLMOps Concepts,,Artificial Intelligence,https://www.datacamp.com/courses/llmops-concepts
+course,Machine Translation with Keras,Python,Artificial Intelligence,https://www.datacamp.com/courses/machine-translation-with-keras
+course,Microsoft Copilot in Excel,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/microsoft-copilot-in-excel
+course,Microsoft Copilot in PowerPoint,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/microsoft-copilot-in-powerpoint
+course,Microsoft Copilot in Word,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/microsoft-copilot-in-word
+course,Model Context Protocol: Advanced Topics,Claude,Artificial Intelligence,https://www.datacamp.com/courses/model-context-protocol-advanced-topics
+course,Monetizing Artificial Intelligence,,Artificial Intelligence,https://www.datacamp.com/courses/monetizing-artificial-intelligence
+course,Multi-Agent Systems with LangGraph,Python,Artificial Intelligence,https://www.datacamp.com/courses/multi-agent-systems-with-langgraph
+course,Multi-Modal Models with Hugging Face,Python,Artificial Intelligence,https://www.datacamp.com/courses/multi-modal-models-with-hugging-face
+course,Multi-Modal Systems with the OpenAI API,OpenAI,Artificial Intelligence,https://www.datacamp.com/courses/multi-modal-systems-with-the-openai-api
+course,Natural Language Processing (NLP) in Python,Python,Artificial Intelligence,https://www.datacamp.com/courses/natural-language-processing-nlp-in-python
+course,Overturning Insurance Denials with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/overturning-insurance-denials-with-claude
+course,Planning a Product Launch with Claude,Claude,Artificial Intelligence,https://www.datacamp.com/courses/planning-a-product-launch-with-claude
+course,Practical AI with Google Gemini and NotebookLM,Gemini,Artificial Intelligence,https://www.datacamp.com/courses/practical-ai-with-google-gemini-and-notebooklm
+course,Prompt Engineering with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/prompt-engineering-with-langchain
+course,Prompt Engineering with the OpenAI API,OpenAI,Artificial Intelligence,https://www.datacamp.com/courses/prompt-engineering-with-the-openai-api
+course,Recommending Skincare Products,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/recommending-skincare-products
+course,Recurrent Neural Networks (RNNs) for Language Modeling with Keras,Python,Artificial Intelligence,https://www.datacamp.com/courses/recurrent-neural-networks-rnn-for-language-modeling-with-keras
+course,Reinforcement Learning from Human Feedback (RLHF),Python,Artificial Intelligence,https://www.datacamp.com/courses/reinforcement-learning-from-human-feedback-rlhf
+course,Reinforcement Learning with Gymnasium in Python,Python,Artificial Intelligence,https://www.datacamp.com/courses/reinforcement-learning-with-gymnasium-in-python
+course,Responsible AI Data Management,,Artificial Intelligence,https://www.datacamp.com/courses/responsible-ai-data-management
+course,Responsible AI Practices,,Artificial Intelligence,https://www.datacamp.com/courses/responsible-ai-practices
+course,Retrieval Augmented Generation (RAG) with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/retrieval-augmented-generation-rag-with-langchain
+course,Retrieval-Augmented Generation with LangChain,Python,Artificial Intelligence,https://www.datacamp.com/courses/retrieval-augmented-generation-with-langchain
+course,Scalable AI Models with PyTorch Lightning,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/scalable-ai-models-with-pytorch-lightning
+course,Snowflake CoCo Essentials,Snowflake,Artificial Intelligence,https://www.datacamp.com/courses/snowflake-coco-essentials
+course,Software Development with Cursor,Cursor,Artificial Intelligence,https://www.datacamp.com/courses/software-development-with-cursor
+course,Software Development with GitHub Copilot,GitHub,Artificial Intelligence,https://www.datacamp.com/courses/software-development-with-github-copilot
+course,Software Development with Windsurf,,Artificial Intelligence,https://www.datacamp.com/courses/software-development-with-windsurf
+course,Text-to-Query Agents with MongoDB and LangGraph,Python,Artificial Intelligence,https://www.datacamp.com/courses/text-to-query-agents-with-mongodb-and-langgraph
+course,Token Cost Management for Everyone,,Artificial Intelligence,https://www.datacamp.com/courses/token-cost-management-for-everyone
+course,Transformer Models with PyTorch,PyTorch,Artificial Intelligence,https://www.datacamp.com/courses/transformer-models-with-pytorch
+course,Understanding Artificial Intelligence,,Artificial Intelligence,https://www.datacamp.com/courses/understanding-artificial-intelligence
+course,Understanding ChatGPT,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/understanding-chatgpt
+course,Understanding Prompt Engineering,ChatGPT,Artificial Intelligence,https://www.datacamp.com/courses/understanding-prompt-engineering
+course,Understanding the EU AI Act,,Artificial Intelligence,https://www.datacamp.com/courses/understanding-the-eu-ai-act
+course,Vibe Coding with Replit,,Artificial Intelligence,https://www.datacamp.com/courses/vibe-coding-with-replit
+course,Working with Claude Skills,Claude,Artificial Intelligence,https://www.datacamp.com/courses/working-with-claude-skills
+course,Working with DeepSeek in Python,Python,Artificial Intelligence,https://www.datacamp.com/courses/working-with-deepseek-in-python
+course,Working with Hugging Face,Python,Artificial Intelligence,https://www.datacamp.com/courses/working-with-hugging-face
+course,Working with Llama 3,Llama,Artificial Intelligence,https://www.datacamp.com/courses/working-with-llama-3
+course,Working with Microsoft Copilot,Microsoft Copilot,Artificial Intelligence,https://www.datacamp.com/courses/working-with-microsoft-copilot
+course,Working with the OpenAI API,OpenAI,Artificial Intelligence,https://www.datacamp.com/courses/working-with-the-openai-api
+course,Working with the OpenAI Responses API,OpenAI,Artificial Intelligence,https://www.datacamp.com/courses/working-with-the-openai-responses-api
+course,Accelerate App Development with Gemini CLI,Google Cloud,Cloud,https://www.datacamp.com/courses/accelerate-app-development-with-gemini-cli
+course,AI Infrastructure: Cloud GPUs,Google Cloud,Cloud,https://www.datacamp.com/courses/ai-infrastructure-cloud-gpus
+course,AI Infrastructure: Cloud TPUs,Google Cloud,Cloud,https://www.datacamp.com/courses/ai-infrastructure-cloud-tpus
+course,AI Infrastructure: Deployment Types,Google Cloud,Cloud,https://www.datacamp.com/courses/ai-infrastructure-deployment-types
+course,AI Infrastructure: Introduction to AI Hypercomputer,Google Cloud,Cloud,https://www.datacamp.com/courses/ai-infrastructure-introduction-to-ai-hypercomputer
+course,AI Infrastructure: Networking Techniques,Google Cloud,Cloud,https://www.datacamp.com/courses/ai-infrastructure-networking-techniques
+course,AI Infrastructure: Storage Options,Google Cloud,Cloud,https://www.datacamp.com/courses/ai-infrastructure-storage-options
+course,Architecting with Google Kubernetes Engine: Production,Google Cloud,Cloud,https://www.datacamp.com/courses/architecting-with-google-kubernetes-engine-production
+course,Architecting with Google Kubernetes Engine: Workloads,Google Cloud,Cloud,https://www.datacamp.com/courses/architecting-with-google-kubernetes-engine-workloads
+course,Automating Deployments on AWS,AWS,Cloud,https://www.datacamp.com/courses/automating-deployments-on-aws
+course,AWS Cloud Technology and Services Concepts,AWS,Cloud,https://www.datacamp.com/courses/aws-cloud-technology-and-services
+course,AWS Concepts,AWS,Cloud,https://www.datacamp.com/courses/aws-concepts
+course,AWS Security and Cost Management Concepts,AWS,Cloud,https://www.datacamp.com/courses/aws-security-and-cost-management
+course,Azure API Management,Azure,Cloud,https://www.datacamp.com/courses/azure-api-management
+course,Azure App Services,Azure,Cloud,https://www.datacamp.com/courses/azure-app-services
+course,Azure Compute Solutions,Azure,Cloud,https://www.datacamp.com/courses/azure-compute-solutions
+course,Boost Productivity with Gemini in BigQuery,Google Cloud,Cloud,https://www.datacamp.com/courses/boost-productivity-with-gemini-in-bigquery
+course,Build a Certification Study Guide: ACE Exam Prep,Google Cloud,Cloud,https://www.datacamp.com/courses/build-a-certification-study-guide-ace-exam-prep
+course,Build Batch Data Pipelines on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/build-batch-data-pipelines-on-google-cloud
+course,Build Data Lakes and Data Warehouses on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/build-data-lakes-and-data-warehouses-on-google-cloud
+course,Build Streaming Data Pipelines on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/build-streaming-data-pipelines-on-google-cloud
+course,Case Study: Set Up a Book Recommendation App in Azure,Azure,Cloud,https://www.datacamp.com/courses/case-study-set-up-a-book-recommendation-app-in-azure
+course,Cloud Security Risks: Identify and Protect Against Threats,Google Cloud,Cloud,https://www.datacamp.com/courses/cloud-security-risks-identify-and-protect-against-threats
+course,Configure Gemini Code Assist for Organizations,Google Cloud,Cloud,https://www.datacamp.com/courses/configure-gemini-code-assist-for-organizations
+course,Create Engaging Video with Google Vids,Google Cloud,Cloud,https://www.datacamp.com/courses/create-engaging-video-with-google-vids
+course,Create Generative AI Apps on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/create-generative-ai-apps-on-google-cloud
+course,Deploy and Scale AI Models with Cloud Run,Google Cloud,Cloud,https://www.datacamp.com/courses/deploy-and-scale-ai-models-with-cloud-run
+course,Deploying Applications on AWS,AWS,Cloud,https://www.datacamp.com/courses/deploying-applications-on-aws
+course,"Detect, Respond, and Recover from Cloud Cybersecurity Attacks",Google Cloud,Cloud,https://www.datacamp.com/courses/detect-respond-and-recover-from-cloud-cybersecurity-attacks
+course,Develop Azure Event-based and Message-based Solutions,Azure,Cloud,https://www.datacamp.com/courses/develop-azure-event-based-and-message-based-solutions
+course,Develop for Azure Storage,Azure,Cloud,https://www.datacamp.com/courses/develop-for-azure-storage
+course,Developing Applications on AWS,AWS,Cloud,https://www.datacamp.com/courses/developing-applications-on-aws
+course,Developing Applications with Cloud Run Functions on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/developing-applications-with-cloud-run-functions-on-google-cloud
+course,Developing Applications with Cloud Run on Google Cloud: Fundamentals,Google Cloud,Cloud,https://www.datacamp.com/courses/developing-applications-with-cloud-run-on-google-cloud-fundamentals
+course,Developing Applications with Google Cloud: Foundations,Google Cloud,Cloud,https://www.datacamp.com/courses/developing-applications-with-google-cloud-foundations
+course,Developing Containerized Applications on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/developing-containerized-applications-on-google-cloud
+course,Digital Transformation with Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/digital-transformation-with-google-cloud
+course,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,Cloud,https://www.datacamp.com/courses/elastic-google-cloud-infrastructure-scaling-and-automation
+course,Essential Google Cloud Infrastructure: Core Services,Google Cloud,Cloud,https://www.datacamp.com/courses/essential-google-cloud-infrastructure-core-services
+course,Essential Google Cloud Infrastructure: Foundation,Google Cloud,Cloud,https://www.datacamp.com/courses/essential-google-cloud-infrastructure-foundation
+course,Exploring Data Transformation with Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/exploring-data-transformation-with-google-cloud
+course,Gemini for Application Developers,Google Cloud,Cloud,https://www.datacamp.com/courses/gemini-for-application-developers
+course,Gemini for end-to-end SDLC,Google Cloud,Cloud,https://www.datacamp.com/courses/gemini-for-end-to-end-sdlc
+course,Gen AI Agents: Transform Your Organization,Google Cloud,Cloud,https://www.datacamp.com/courses/gen-ai-agents-transform-your-organization
+course,Gen AI Apps: Transform Your Work,Google Cloud,Cloud,https://www.datacamp.com/courses/gen-ai-apps-transform-your-work
+course,Gen AI: Beyond the Chatbot,Google Cloud,Cloud,https://www.datacamp.com/courses/gen-ai-beyond-the-chatbot
+course,Gen AI: Navigate the Landscape,Google Cloud,Cloud,https://www.datacamp.com/courses/gen-ai-navigate-the-landscape
+course,Gen AI: Unlock Foundational Concepts,Google Cloud,Cloud,https://www.datacamp.com/courses/gen-ai-unlock-foundational-concepts
+course,Getting Started with Google Kubernetes Engine,Google Cloud,Cloud,https://www.datacamp.com/courses/getting-started-with-google-kubernetes-engine
+course,Google Cloud Fundamentals: Core Infrastructure,Google Cloud,Cloud,https://www.datacamp.com/courses/google-cloud-fundamentals-core-infrastructure
+course,Google Workspace End User: Gmail,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-gmail
+course,Google Workspace End User: Google Calendar,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-calendar
+course,Google Workspace End User: Google Chat,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-chat
+course,Google Workspace End User: Google Docs,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-docs
+course,Google Workspace End User: Google Drive,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-drive
+course,Google Workspace End User: Google Meet,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-meet
+course,Google Workspace End User: Google Sheets,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-sheets
+course,Google Workspace End User: Google Sheets - Advanced Topics,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-sheets-advanced-topics
+course,Google Workspace End User: Google Slides,Google Cloud,Cloud,https://www.datacamp.com/courses/google-workspace-end-user-google-slides
+course,Google: Add Agent Capabilities With Tools,Google Cloud,Cloud,https://www.datacamp.com/courses/google-add-agent-capabilities-with-tools
+course,Google: Agent Fundamentals,Google Cloud,Cloud,https://www.datacamp.com/courses/google-agent-fundamentals
+course,Google: Build Agents with Agent Development Kit (ADK),Google Cloud,Cloud,https://www.datacamp.com/courses/google-build-agents-with-agent-development-kit-adk
+course,Google: Build and Deploy Agents in Production,Google Cloud,Cloud,https://www.datacamp.com/courses/google-build-and-deploy-agents-in-production
+course,Google: Build Your First Agent with Agent Development Kit (ADK),Google Cloud,Cloud,https://www.datacamp.com/courses/google-build-your-first-agent-with-agent-development-kit-adk
+course,Google: Create Your First Gemini Enterprise Application,Google Cloud,Cloud,https://www.datacamp.com/courses/google-create-your-first-gemini-enterprise-application
+course,Google: Deploy Your First Agent,Google Cloud,Cloud,https://www.datacamp.com/courses/google-deploy-your-first-agent
+course,Google: Enterprise Agents and Use Cases,Google Cloud,Cloud,https://www.datacamp.com/courses/google-enterprise-agents-and-use-cases
+course,Google: Human-Centered AI,Google Cloud,Cloud,https://www.datacamp.com/courses/google-human-centered-ai
+course,Google: Introduction to AI Agents,Google Cloud,Cloud,https://www.datacamp.com/courses/google-introduction-to-ai-agents
+course,Google: Introduction to Generative AI,Google Cloud,Cloud,https://www.datacamp.com/courses/google-introduction-to-generative-ai
+course,Google: Introduction to Large Language Models,Google Cloud,Cloud,https://www.datacamp.com/courses/google-introduction-to-large-language-models
+course,Google: Manage Agent Memory and State,Google Cloud,Cloud,https://www.datacamp.com/courses/google-manage-agent-memory-and-state
+course,Google: Optimize Agent Behavior,Google Cloud,Cloud,https://www.datacamp.com/courses/google-optimize-agent-behavior
+course,Implement Azure Security for Developers,Azure,Cloud,https://www.datacamp.com/courses/implement-azure-security-for-developers
+course,Innovating with Google Cloud AI,Google Cloud,Cloud,https://www.datacamp.com/courses/innovating-with-google-cloud-ai
+course,Introduction to AI and Machine Learning on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/introduction-to-ai-and-machine-learning-on-google-cloud
+course,Introduction to AWS Boto in Python,AWS,Cloud,https://www.datacamp.com/courses/introduction-to-aws-boto-in-python
+course,Introduction to Azure,Azure,Cloud,https://www.datacamp.com/courses/introduction-to-azure
+course,Introduction to Data Engineering on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/introduction-to-data-engineering-on-google-cloud
+course,Introduction to GCP,,Cloud,https://www.datacamp.com/courses/introduction-to-gcp
+course,Introduction to Gemini Enterprise,Google Cloud,Cloud,https://www.datacamp.com/courses/introduction-to-gemini-enterprise
+course,Introduction to Security in the World of AI,Google Cloud,Cloud,https://www.datacamp.com/courses/introduction-to-security-in-the-world-of-ai
+course,Introduction to Security Principles in Cloud Computing,Google Cloud,Cloud,https://www.datacamp.com/courses/introduction-to-security-principles-in-cloud-computing
+course,Logging and Monitoring in Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/logging-and-monitoring-in-google-cloud
+course,Machine Learning Operations (MLOps) for Generative AI,Google Cloud,Cloud,https://www.datacamp.com/courses/machine-learning-operations-mlops-for-generative-ai
+course,Machine Learning Operations (MLOps) with Vertex AI: Manage Features,Google Cloud,Cloud,https://www.datacamp.com/courses/machine-learning-operations-mlops-with-vertex-ai-manage-features
+course,Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation,Google Cloud,Cloud,https://www.datacamp.com/courses/machine-learning-operations-mlops-with-vertex-ai-model-evaluation
+course,Machine Learning Operations (MLOps): Getting Started,Google Cloud,Cloud,https://www.datacamp.com/courses/machine-learning-operations-mlops-getting-started
+course,Manage Scalable Workloads in GKE,Google Cloud,Cloud,https://www.datacamp.com/courses/manage-scalable-workloads-in-gke
+course,Model Armor: Securing AI Deployments,Google Cloud,Cloud,https://www.datacamp.com/courses/model-armor-securing-ai-deployments
+course,Modernize Infrastructure and Applications with Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/modernize-infrastructure-and-applications-with-google-cloud
+course,Monitor and Troubleshoot Azure Solutions,Azure,Cloud,https://www.datacamp.com/courses/monitor-and-troubleshoot-azure-solutions
+course,Monitoring and Troubleshooting AWS,AWS,Cloud,https://www.datacamp.com/courses/monitoring-and-troubleshooting-aws
+course,Observability in Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/observability-in-google-cloud
+course,Preparing for Your Associate Cloud Engineer Journey,Google Cloud,Cloud,https://www.datacamp.com/courses/preparing-for-your-associate-cloud-engineer-journey
+course,Preparing for your Professional Data Engineer Journey,Google Cloud,Cloud,https://www.datacamp.com/courses/preparing-for-your-professional-data-engineer-journey
+course,Production Machine Learning Systems,Google Cloud,Cloud,https://www.datacamp.com/courses/production-machine-learning-systems
+course,Put It All Together: Prepare for a Cloud Security Analyst Job,Google Cloud,Cloud,https://www.datacamp.com/courses/put-it-all-together-prepare-for-a-cloud-security-analyst-job
+course,Responsible AI for Developers: Fairness & Bias,Google Cloud,Cloud,https://www.datacamp.com/courses/responsible-ai-for-developers-fairness-bias
+course,Responsible AI for Developers: Interpretability & Transparency,Google Cloud,Cloud,https://www.datacamp.com/courses/responsible-ai-for-developers-interpretability-transparency
+course,Responsible AI for Developers: Privacy & Safety,Google Cloud,Cloud,https://www.datacamp.com/courses/responsible-ai-for-developers-privacy-safety
+course,Scaling with Google Cloud Operations,Google Cloud,Cloud,https://www.datacamp.com/courses/scaling-with-google-cloud-operations
+course,Select a Google Cloud Database for Your Applications,Google Cloud,Cloud,https://www.datacamp.com/courses/select-a-google-cloud-database-for-your-applications
+course,Serverless Applications with AWS Lambda,AWS,Cloud,https://www.datacamp.com/courses/serverless-applications-with-aws-lambda
+course,Serverless Data Processing with Dataflow: Develop Pipelines,Google Cloud,Cloud,https://www.datacamp.com/courses/serverless-data-processing-with-dataflow-develop-pipelines
+course,Serverless Data Processing with Dataflow: Foundations,Google Cloud,Cloud,https://www.datacamp.com/courses/serverless-data-processing-with-dataflow-foundations
+course,Serverless Data Processing with Dataflow: Operations,Google Cloud,Cloud,https://www.datacamp.com/courses/serverless-data-processing-with-dataflow-operations
+course,Service Orchestration and Choreography on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/service-orchestration-and-choreography-on-google-cloud
+course,Strategies for Cloud Security Risk Management,Google Cloud,Cloud,https://www.datacamp.com/courses/strategies-for-cloud-security-risk-management
+course,Streaming Data with AWS Kinesis and Lambda,AWS,Cloud,https://www.datacamp.com/courses/streaming-data-with-aws-kinesis-and-lambda
+course,Streamline App Development with Gemini Code Assist,Google Cloud,Cloud,https://www.datacamp.com/courses/streamline-app-development-with-gemini-code-assist
+course,Trust and Security with Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/trust-and-security-with-google-cloud
+course,Understanding Cloud Computing,,Cloud,https://www.datacamp.com/courses/understanding-cloud-computing
+course,Understanding Microsoft Azure,Azure,Cloud,https://www.datacamp.com/courses/understanding-microsoft-azure
+course,Understanding Microsoft Azure Architecture and Services,Azure,Cloud,https://www.datacamp.com/courses/understanding-microsoft-azure-architecture-and-services
+course,Understanding Microsoft Azure Management and Governance,Azure,Cloud,https://www.datacamp.com/courses/understanding-microsoft-azure-management-and-governance
+course,Using AWS Security for Developers,AWS,Cloud,https://www.datacamp.com/courses/using-aws-security-for-developers
+course,Using Data Stores in AWS,AWS,Cloud,https://www.datacamp.com/courses/using-data-stores-in-aws
+course,Website Modernization with Generative AI on Google Cloud,Google Cloud,Cloud,https://www.datacamp.com/courses/website-modernization-with-generative-ai-on-google-cloud
+course,Work with Gemini Models in BigQuery,Google Cloud,Cloud,https://www.datacamp.com/courses/work-with-gemini-models-in-bigquery
+course,Advanced Data Engineering with Snowflake,Snowflake,Data Engineering,https://www.datacamp.com/courses/advanced-data-engineering-with-snowflake
+course,Apache Iceberg: From Zero to Production Data Lakehouse,Snowflake,Data Engineering,https://www.datacamp.com/courses/apache-iceberg-from-zero-to-production-data-lakehouse
+course,Big Data Fundamentals with PySpark,Spark,Data Engineering,https://www.datacamp.com/courses/big-data-fundamentals-with-pyspark
+course,Building Data Pipelines with Airflow,Airflow,Data Engineering,https://www.datacamp.com/courses/building-data-pipelines-with-airflow
+course,Case Study: Building E-Commerce Data Models with dbt,dbt,Data Engineering,https://www.datacamp.com/courses/case-study-building-e-commerce-data-models-with-dbt
+course,Case Study: Sales Analytics with Databricks Genie,Databricks,Data Engineering,https://www.datacamp.com/courses/case-study-sales-analytics-with-databricks-genie
+course,Data Pipeline Automation in Snowflake,Snowflake,Data Engineering,https://www.datacamp.com/courses/data-pipeline-automation-in-snowflake
+course,Data Transformation with Spark SQL in Databricks,Databricks,Data Engineering,https://www.datacamp.com/courses/data-transformation-with-spark-sql-in-databricks
+course,Data Warehousing Concepts,,Data Engineering,https://www.datacamp.com/courses/data-warehousing-concepts
+course,Database Design,SQL,Data Engineering,https://www.datacamp.com/courses/database-design
+course,Databricks Concepts,Databricks,Data Engineering,https://www.datacamp.com/courses/databricks-concepts
+course,ETL and ELT in Python,Python,Data Engineering,https://www.datacamp.com/courses/etl-and-elt-in-python
+course,Foundations of PySpark,Spark,Data Engineering,https://www.datacamp.com/courses/foundations-of-pyspark
+course,Intermediate dbt,dbt,Data Engineering,https://www.datacamp.com/courses/intermediate-dbt
+course,"Intro to Snowflake for Devs, Data Scientists, Data Engineers",Snowflake,Data Engineering,https://www.datacamp.com/courses/intro-to-snowflake-for-devs-data-scientists-data-engineers
+course,Introduction to Apache Airflow in Python,Airflow,Data Engineering,https://www.datacamp.com/courses/introduction-to-apache-airflow-in-python
+course,Introduction to Apache Kafka,Kafka,Data Engineering,https://www.datacamp.com/courses/introduction-to-apache-kafka
+course,Introduction to BigQuery,Google Cloud,Data Engineering,https://www.datacamp.com/courses/introduction-to-bigquery
+course,Introduction to Data Engineering,Python,Data Engineering,https://www.datacamp.com/courses/introduction-to-data-engineering
+course,Introduction to Data Modeling in Snowflake,Snowflake,Data Engineering,https://www.datacamp.com/courses/introduction-to-data-modeling-in-snowflake
+course,Introduction to Data Quality with Great Expectations,Python,Data Engineering,https://www.datacamp.com/courses/introduction-to-data-quality-with-great-expectations
+course,Introduction to Databricks,Databricks,Data Engineering,https://www.datacamp.com/courses/introduction-to-databricks
+course,Introduction to Databricks Genie,Databricks,Data Engineering,https://www.datacamp.com/courses/introduction-to-databricks-genie
+course,Introduction to Databricks Lakehouse,Databricks,Data Engineering,https://www.datacamp.com/courses/introduction-to-databricks-lakehouse
+course,Introduction to Databricks SQL,Databricks,Data Engineering,https://www.datacamp.com/courses/introduction-to-databricks-sql
+course,Introduction to dbt,dbt,Data Engineering,https://www.datacamp.com/courses/introduction-to-dbt
+course,Introduction to Modern Data Engineering with Snowflake,Snowflake,Data Engineering,https://www.datacamp.com/courses/introduction-to-modern-data-engineering-with-snowflake
+course,Introduction to MongoDB in Python,Python,Data Engineering,https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python
+course,Introduction to NoSQL,SQL,Data Engineering,https://www.datacamp.com/courses/introduction-to-nosql
+course,Introduction to PySpark,Spark,Data Engineering,https://www.datacamp.com/courses/introduction-to-pyspark
+course,Introduction to Snowflake SQL,Snowflake,Data Engineering,https://www.datacamp.com/courses/introduction-to-snowflake-sql
+course,Introduction to Spark with sparklyr in R,Spark,Data Engineering,https://www.datacamp.com/courses/introduction-to-spark-with-sparklyr-in-r
+course,NoSQL Concepts,SQL,Data Engineering,https://www.datacamp.com/courses/nosql-concepts
+course,Streaming Concepts,,Data Engineering,https://www.datacamp.com/courses/streaming-concepts
+course,Understanding Data Engineering,,Data Engineering,https://www.datacamp.com/courses/understanding-data-engineering
+course,Understanding Modern Data Architecture,,Data Engineering,https://www.datacamp.com/courses/understanding-modern-data-architecture
+course,Communicating Data Insights,,Data Literacy,https://www.datacamp.com/courses/communicating-data-insights
+course,Data Communication Concepts,,Data Literacy,https://www.datacamp.com/courses/data-communication-concepts
+course,Data Fluency,,Data Literacy,https://www.datacamp.com/courses/data-fluency
+course,Data Literacy Case Study: Remote Working Analysis,,Data Literacy,https://www.datacamp.com/courses/data-literacy-case-study-remote-working-analysis
+course,Data Science for Business,,Data Literacy,https://www.datacamp.com/courses/data-science-for-business
+course,Data Storytelling Case Study: College Majors,,Data Literacy,https://www.datacamp.com/courses/data-storytelling-case-study-college-majors
+course,Data Storytelling Case Study: Green Businesses,,Data Literacy,https://www.datacamp.com/courses/data-storytelling-case-study-green-businesses
+course,Data Storytelling Concepts,,Data Literacy,https://www.datacamp.com/courses/data-storytelling-concepts
+course,Data-Driven Decision Making in SQL,SQL,Data Literacy,https://www.datacamp.com/courses/data-driven-decision-making-in-sql
+course,Decoding Decision Modeling,,Data Literacy,https://www.datacamp.com/courses/decoding-decision-modeling
+course,Demystifying Decision Science,,Data Literacy,https://www.datacamp.com/courses/demystifying-decision-science
+course,Forming Analytical Questions,,Data Literacy,https://www.datacamp.com/courses/forming-analytical-questions
+course,Introduction to Data,,Data Literacy,https://www.datacamp.com/courses/introduction-to-data
+course,Introduction to Data Culture,,Data Literacy,https://www.datacamp.com/courses/introduction-to-data-culture
+course,Introduction to Data Ethics,,Data Literacy,https://www.datacamp.com/courses/introduction-to-data-ethics
+course,Introduction to Data Literacy,,Data Literacy,https://www.datacamp.com/courses/introduction-to-data-literacy
+course,Introduction to Data Privacy,,Data Literacy,https://www.datacamp.com/courses/introduction-to-data-privacy
+course,Understanding Data Science,,Data Literacy,https://www.datacamp.com/courses/understanding-data-science
+course,Understanding Digital Transformation,,Data Literacy,https://www.datacamp.com/courses/understanding-digital-transformation
+course,Understanding GDPR,,Data Literacy,https://www.datacamp.com/courses/understanding-gdpr
+course,Conquering Data Bias,,Data Management,https://www.datacamp.com/courses/conquering-data-bias
+course,Data Governance Concepts,,Data Management,https://www.datacamp.com/courses/data-governance-concepts
+course,Data Management Concepts,,Data Management,https://www.datacamp.com/courses/data-management-concepts
+course,Data Management in Databricks,Databricks,Data Management,https://www.datacamp.com/courses/data-management-in-databricks
+course,Data Strategy,,Data Management,https://www.datacamp.com/courses/data-strategy
+course,Data Validation in Excel,Excel,Data Management,https://www.datacamp.com/courses/data-validation-in-excel
+course,GDPR in Practice: Compliance and Fines,,Data Management,https://www.datacamp.com/courses/gdpr-in-practice-compliance-and-fines
+course,Introduction to Data Quality,,Data Management,https://www.datacamp.com/courses/introduction-to-data-quality
+course,Introduction to Data Security,,Data Management,https://www.datacamp.com/courses/introduction-to-data-security
+course,Snowflake Architecture,Snowflake,Data Management,https://www.datacamp.com/courses/snowflake-architecture
+course,"Snowflake Management, Governance & Collaboration",Snowflake,Data Management,https://www.datacamp.com/courses/snowflake-management-governance-collaboration
+course,Advanced Excel Functions,Excel,Data Manipulation,https://www.datacamp.com/courses/advanced-excel-functions
+course,Analyzing IoT Data in Python,Python,Data Manipulation,https://www.datacamp.com/courses/analyzing-iot-data-in-python
+course,Analyzing Police Activity with pandas,Python,Data Manipulation,https://www.datacamp.com/courses/analyzing-police-activity-with-pandas
+course,Analyzing Social Media Data in Python,Python,Data Manipulation,https://www.datacamp.com/courses/analyzing-social-media-data-in-python
+course,Analyzing Social Media Data in R,R,Data Manipulation,https://www.datacamp.com/courses/analyzing-social-media-data-in-r
+course,Biomedical Image Analysis in Python,Python,Data Manipulation,https://www.datacamp.com/courses/biomedical-image-analysis-in-python
+course,Calculations in Sigma,Sigma,Data Manipulation,https://www.datacamp.com/courses/calculations-in-sigma
+course,Case Study: Analyzing Job Market Data in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/case-study-analyzing-job-market-data-in-power-bi
+course,Case Study: HR Analytics in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/case-study-hr-analytics-in-power-bi
+course,Categorical Data in the Tidyverse,R,Data Manipulation,https://www.datacamp.com/courses/categorical-data-in-the-tidyverse
+course,Conditional Formatting in Google Sheets,Google Sheets,Data Manipulation,https://www.datacamp.com/courses/conditional-formatting-in-google-sheets
+course,Customer Segmentation in Python,Python,Data Manipulation,https://www.datacamp.com/courses/customer-segmentation-in-python
+course,Data Analysis in Google Sheets,Google Sheets,Data Manipulation,https://www.datacamp.com/courses/data-analysis-in-google-sheets
+course,Data Connections in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/data-connections-in-power-bi
+course,Data Manipulation in Alteryx,Alteryx,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-in-alteryx
+course,Data Manipulation in KNIME,KNIME,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-in-knime
+course,Data Manipulation in Snowflake,Snowflake,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-in-snowflake
+course,Data Manipulation in SQL,SQL,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-in-sql
+course,Data Manipulation with data.table in R,R,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-with-datatable-in-r
+course,Data Manipulation with dplyr,R,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-with-dplyr
+course,Data Manipulation with pandas,Python,Data Manipulation,https://www.datacamp.com/courses/data-manipulation-with-pandas
+course,Data Modeling in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/data-modeling-in-power-bi
+course,Data Processing in Shell,Shell,Data Manipulation,https://www.datacamp.com/courses/data-processing-in-shell
+course,Data Transformation in Alteryx,Alteryx,Data Manipulation,https://www.datacamp.com/courses/data-transformation-in-alteryx
+course,Data Transformation in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/data-transformation-in-power-bi
+course,Data Transformation with Polars,Python,Data Manipulation,https://www.datacamp.com/courses/data-transformation-with-polars
+course,Data Types and Functions in Snowflake,Snowflake,Data Manipulation,https://www.datacamp.com/courses/data-types-and-functions-in-snowflake
+course,DAX Functions in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/dax-functions-in-power-bi
+course,Dealing with Missing Data in Python,Python,Data Manipulation,https://www.datacamp.com/courses/dealing-with-missing-data-in-python
+course,Deploying and Maintaining Assets in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/deploying-and-maintaining-assets-in-power-bi
+course,Feature Engineering with PySpark,Spark,Data Manipulation,https://www.datacamp.com/courses/feature-engineering-with-pyspark
+course,Functions for Manipulating Data in PostgreSQL,SQL,Data Manipulation,https://www.datacamp.com/courses/functions-for-manipulating-data-in-postgresql
+course,Functions for Manipulating Data in SQL Server,SQL,Data Manipulation,https://www.datacamp.com/courses/functions-for-manipulating-data-in-sql-server
+course,Handling Missing Data with Imputations in R,R,Data Manipulation,https://www.datacamp.com/courses/handling-missing-data-with-imputations-in-r
+course,Intermediate Data Modeling in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/intermediate-data-modeling-in-power-bi
+course,Intermediate DAX in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/intermediate-dax-in-power-bi
+course,Intermediate SQL,SQL,Data Manipulation,https://www.datacamp.com/courses/intermediate-sql
+course,Intermediate SQL Querying with AI,SQL,Data Manipulation,https://www.datacamp.com/courses/intermediate-sql-querying-with-ai
+course,Introduction to Databases in Python,Python,Data Manipulation,https://www.datacamp.com/courses/introduction-to-relational-databases-in-python
+course,Introduction to DAX in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/introduction-to-dax-in-power-bi
+course,Introduction to Excel,Excel,Data Manipulation,https://www.datacamp.com/courses/introduction-to-excel
+course,Introduction to NumPy,Python,Data Manipulation,https://www.datacamp.com/courses/introduction-to-numpy
+course,Introduction to Oracle SQL,SQL,Data Manipulation,https://www.datacamp.com/courses/introduction-to-oracle-sql
+course,Introduction to Polars,Python,Data Manipulation,https://www.datacamp.com/courses/introduction-to-polars
+course,Introduction to Python in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/introduction-to-python-in-power-bi
+course,Introduction to Sigma,Sigma,Data Manipulation,https://www.datacamp.com/courses/introduction-to-sigma
+course,Introduction to Spark SQL in Python,Spark,Data Manipulation,https://www.datacamp.com/courses/introduction-to-spark-sql-in-python
+course,Introduction to SQL,SQL,Data Manipulation,https://www.datacamp.com/courses/introduction-to-sql
+course,Introduction to SQL Querying with AI,SQL,Data Manipulation,https://www.datacamp.com/courses/introduction-to-sql-querying-with-ai
+course,Introduction to Text Analysis in R,R,Data Manipulation,https://www.datacamp.com/courses/introduction-to-text-analysis-in-r
+course,Joining Data in SQL,SQL,Data Manipulation,https://www.datacamp.com/courses/joining-data-in-sql
+course,Joining Data with data.table in R,R,Data Manipulation,https://www.datacamp.com/courses/joining-data-with-datatable-in-r
+course,Joining Data with dplyr,R,Data Manipulation,https://www.datacamp.com/courses/joining-data-with-dplyr
+course,Joining Data with pandas,Python,Data Manipulation,https://www.datacamp.com/courses/joining-data-with-pandas
+course,Manipulating Time Series Data in Python,Python,Data Manipulation,https://www.datacamp.com/courses/manipulating-time-series-data-in-python
+course,Manipulating Time Series Data in R,R,Data Manipulation,https://www.datacamp.com/courses/manipulating-time-series-data-in-r
+course,Market Basket Analysis in R,R,Data Manipulation,https://www.datacamp.com/courses/market-basket-analysis-in-r
+course,Pandas Joins for Spreadsheet Users,Python,Data Manipulation,https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users
+course,Pivot Tables in Google Sheets,Google Sheets,Data Manipulation,https://www.datacamp.com/courses/pivot-tables-in-google-sheets
+course,Power Pivot in Excel,Excel,Data Manipulation,https://www.datacamp.com/courses/power-pivot-in-excel
+course,Programming with dplyr,R,Data Manipulation,https://www.datacamp.com/courses/programming-with-dplyr
+course,Reshaping Data with pandas,Python,Data Manipulation,https://www.datacamp.com/courses/reshaping-data-with-pandas
+course,Reshaping Data with tidyr,R,Data Manipulation,https://www.datacamp.com/courses/reshaping-data-with-tidyr
+course,Scaling and Optimizing Data Pipelines with Polars,Python,Data Manipulation,https://www.datacamp.com/courses/scaling-and-optimizing-data-pipelines-with-polars
+course,Spoken Language Processing in Python,Python,Data Manipulation,https://www.datacamp.com/courses/spoken-language-processing-in-python
+course,Time Series Analysis in PostgreSQL,SQL,Data Manipulation,https://www.datacamp.com/courses/time-series-analysis-in-postgresql
+course,Time Series Analysis in SQL Server,SQL,Data Manipulation,https://www.datacamp.com/courses/time-series-analysis-in-sql-server
+course,Trend Analysis in Power BI,Power BI,Data Manipulation,https://www.datacamp.com/courses/trend-analysis-in-power-bi
+course,Understanding Excel,Excel,Data Manipulation,https://www.datacamp.com/courses/understanding-excel
+course,Window Functions in Snowflake,Snowflake,Data Manipulation,https://www.datacamp.com/courses/window-functions-in-snowflake
+course,Working with Categorical Data in Python,Python,Data Manipulation,https://www.datacamp.com/courses/working-with-categorical-data-in-python
+course,Working with Geospatial Data in Python,Python,Data Manipulation,https://www.datacamp.com/courses/working-with-geospatial-data-in-python
+course,Case Study: Analyzing Fitness Data in Alteryx,Alteryx,Data Preparation,https://www.datacamp.com/courses/case-study-analyzing-fitness-data-in-alteryx
+course,Case Study: Analyzing Sales Data in Alteryx,Alteryx,Data Preparation,https://www.datacamp.com/courses/case-study-analyzing-sales-data-in-alteryx
+course,Cleaning Data in PostgreSQL Databases,SQL,Data Preparation,https://www.datacamp.com/courses/cleaning-data-in-postgresql-databases
+course,Cleaning Data in Python,Python,Data Preparation,https://www.datacamp.com/courses/cleaning-data-in-python
+course,Cleaning Data in R,R,Data Preparation,https://www.datacamp.com/courses/cleaning-data-in-r
+course,Cleaning Data in SQL Server Databases,SQL,Data Preparation,https://www.datacamp.com/courses/cleaning-data-in-sql-server-databases
+course,Cleaning Data with PySpark,Spark,Data Preparation,https://www.datacamp.com/courses/cleaning-data-with-pyspark
+course,Connecting Data in Tableau,Tableau,Data Preparation,https://www.datacamp.com/courses/connecting-data-in-tableau
+course,Creating PostgreSQL Databases,SQL,Data Preparation,https://www.datacamp.com/courses/creating-postgresql-databases
+course,Data Preparation in Alteryx,Alteryx,Data Preparation,https://www.datacamp.com/courses/data-preparation-in-alteryx
+course,Data Preparation in Excel,Excel,Data Preparation,https://www.datacamp.com/courses/data-preparation-in-excel
+course,Data Preparation in Power BI,Power BI,Data Preparation,https://www.datacamp.com/courses/data-preparation-in-power-bi
+course,Data Transformation in KNIME,KNIME,Data Preparation,https://www.datacamp.com/courses/data-transformation-in-knime
+course,Dealing With Missing Data in R,R,Data Preparation,https://www.datacamp.com/courses/dealing-with-missing-data-in-r
+course,Intermediate Google Sheets,Google Sheets,Data Preparation,https://www.datacamp.com/courses/intermediate-google-sheets
+course,Intermediate Importing Data in Python,Python,Data Preparation,https://www.datacamp.com/courses/intermediate-importing-data-in-python
+course,Intermediate Importing Data in R,R,Data Preparation,https://www.datacamp.com/courses/intermediate-importing-data-in-r
+course,Intermediate Power Query in Excel,Excel,Data Preparation,https://www.datacamp.com/courses/intermediate-power-query-in-excel
+course,Introduction to Alteryx,Alteryx,Data Preparation,https://www.datacamp.com/courses/introduction-to-alteryx
+course,Introduction to Google Sheets,Google Sheets,Data Preparation,https://www.datacamp.com/courses/introduction-to-google-sheets
+course,Introduction to Importing Data in Python,Python,Data Preparation,https://www.datacamp.com/courses/introduction-to-importing-data-in-python
+course,Introduction to Importing Data in R,R,Data Preparation,https://www.datacamp.com/courses/introduction-to-importing-data-in-r
+course,Introduction to KNIME,KNIME,Data Preparation,https://www.datacamp.com/courses/introduction-to-knime
+course,Introduction to Power Query in Excel,Excel,Data Preparation,https://www.datacamp.com/courses/introduction-to-power-query-in-excel
+course,Marketing Analytics in Tableau,Tableau,Data Preparation,https://www.datacamp.com/courses/marketing-analytics-in-tableau
+course,Streamlined Data Ingestion with pandas,Python,Data Preparation,https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas
+course,Web Scraping in Python,Python,Data Preparation,https://www.datacamp.com/courses/web-scraping-with-python
+course,Web Scraping in R,R,Data Preparation,https://www.datacamp.com/courses/web-scraping-in-r
+course,Analyzing Data in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/analyzing-data-in-tableau
+course,Baseball Data Visualization in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/baseball-data-visualization-in-power-bi
+course,Building Dashboards with Dash and Plotly,Python,Data Visualization,https://www.datacamp.com/courses/building-dashboards-with-dash-and-plotly
+course,Calculations in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/calculations-in-tableau
+course,Case Study: Analyzing Customer Churn in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/case-study-analyzing-customer-churn-in-power-bi
+course,Case Study: Analyzing Customer Churn in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-analyzing-customer-churn-in-tableau
+course,Case Study: Analyzing Healthcare Data in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/case-study-analyzing-healthcare-data-in-power-bi
+course,Case Study: Analyzing Healthcare Data in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-analyzing-healthcare-data-in-tableau
+course,Case Study: Analyzing Job Market Data in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-analyzing-job-market-data-in-tableau
+course,Case Study: Competitor Sales Analysis in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/case-study-competitor-sales-analysis-in-power-bi
+course,Case Study: Ecommerce Analysis in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/case-study-ecommerce-analysis-in-power-bi
+course,Case Study: Ecommerce Analysis in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-ecommerce-analysis-in-tableau
+course,Case Study: HR Analytics in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-hr-analytics-in-tableau
+course,Case Study: Inventory Analysis in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/case-study-inventory-analysis-in-power-bi
+course,Case Study: Inventory Analysis in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-inventory-analysis-in-tableau
+course,Case Study: Supply Chain Analytics in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/case-study-supply-chain-analytics-in-power-bi
+course,Case Study: Supply Chain Analytics in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/case-study-supply-chain-analytics-in-tableau
+course,Communicating with Data in the Tidyverse,R,Data Visualization,https://www.datacamp.com/courses/communicating-with-data-in-the-tidyverse
+course,Creating Dashboards in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/creating-dashboards-in-tableau
+course,Dashboard Design Concepts,,Data Visualization,https://www.datacamp.com/courses/dashboard-design-concepts
+course,Data Visualization in Databricks,Databricks,Data Visualization,https://www.datacamp.com/courses/data-visualization-in-databricks
+course,Data Visualization in Excel,Excel,Data Visualization,https://www.datacamp.com/courses/data-visualization-in-excel
+course,Data Visualization in Google Sheets,Google Sheets,Data Visualization,https://www.datacamp.com/courses/data-visualization-in-google-sheets
+course,Data Visualization in KNIME,KNIME,Data Visualization,https://www.datacamp.com/courses/data-visualization-in-knime
+course,Data Visualization in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/data-visualization-in-power-bi
+course,Data Visualization in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/data-visualization-in-tableau
+course,Improving Your Data Visualizations in Python,Python,Data Visualization,https://www.datacamp.com/courses/improving-your-data-visualizations-in-python
+course,Interactive Data Visualization with Bokeh,Python,Data Visualization,https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
+course,Interactive Data Visualization with plotly in R,R,Data Visualization,https://www.datacamp.com/courses/interactive-data-visualization-with-plotly-in-r
+course,Interactive Maps with leaflet in R,R,Data Visualization,https://www.datacamp.com/courses/interactive-maps-with-leaflet-in-r
+course,Intermediate Data Visualization with ggplot2,R,Data Visualization,https://www.datacamp.com/courses/intermediate-data-visualization-with-ggplot2
+course,Intermediate Data Visualization with Seaborn,Python,Data Visualization,https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn
+course,Intermediate Interactive Data Visualization with plotly in R,R,Data Visualization,https://www.datacamp.com/courses/intermediate-interactive-data-visualization-with-plotly-in-r
+course,Introduction to Data Visualization with ggplot2,R,Data Visualization,https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2
+course,Introduction to Data Visualization with Matplotlib,Python,Data Visualization,https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib
+course,Introduction to Data Visualization with Plotly in Python,Python,Data Visualization,https://www.datacamp.com/courses/introduction-to-data-visualization-with-plotly-in-python
+course,Introduction to Data Visualization with Seaborn,Python,Data Visualization,https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn
+course,Introduction to Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/introduction-to-power-bi
+course,Introduction to Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/introduction-to-tableau
+course,Report Design in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/report-design-in-power-bi
+course,Reports in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/reports-in-power-bi
+course,Time Series Analysis in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/time-series-analysis-in-power-bi
+course,Time Series Analysis in Tableau,Tableau,Data Visualization,https://www.datacamp.com/courses/time-series-analysis-in-tableau
+course,Understanding Data Visualization,,Data Visualization,https://www.datacamp.com/courses/understanding-data-visualization
+course,User-Oriented Design in Power BI,Power BI,Data Visualization,https://www.datacamp.com/courses/user-oriented-design-in-power-bi
+course,Visualization Best Practices in R,R,Data Visualization,https://www.datacamp.com/courses/visualization-best-practices-in-r
+course,Visualizations in Sigma,Sigma,Data Visualization,https://www.datacamp.com/courses/visualizations-in-sigma
+course,Visualizing Big Data with Trelliscope in R,R,Data Visualization,https://www.datacamp.com/courses/visualizing-big-data-with-trelliscope-in-r
+course,Visualizing Geospatial Data in Python,Python,Data Visualization,https://www.datacamp.com/courses/visualizing-geospatial-data-in-python
+course,Visualizing Geospatial Data in R,R,Data Visualization,https://www.datacamp.com/courses/visualizing-geospatial-data-in-r
+course,Visualizing Time Series Data in Python,Python,Data Visualization,https://www.datacamp.com/courses/visualizing-time-series-data-in-python
+course,Visualizing Time Series Data in R,R,Data Visualization,https://www.datacamp.com/courses/visualizing-time-series-data-in-r
+course,Introduction to Snowflake,Snowflake,Data Warehouse,https://www.datacamp.com/courses/introduction-to-snowflake
+course,Analyzing Marketing Campaigns with pandas,Python,Exploratory Data Analysis,https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas
+course,Analyzing US Census Data in Python,Python,Exploratory Data Analysis,https://www.datacamp.com/courses/analyzing-us-census-data-in-python
+course,Analyzing US Census Data in R,R,Exploratory Data Analysis,https://www.datacamp.com/courses/analyzing-us-census-data-in-r
+course,Case Study: Exploratory Data Analysis in R,R,Exploratory Data Analysis,https://www.datacamp.com/courses/case-study-exploratory-data-analysis-in-r
+course,Exploratory Data Analysis in Power BI,Power BI,Exploratory Data Analysis,https://www.datacamp.com/courses/exploratory-data-analysis-in-power-bi
+course,Exploratory Data Analysis in Python,Python,Exploratory Data Analysis,https://www.datacamp.com/courses/exploratory-data-analysis-in-python
+course,Exploratory Data Analysis in R,R,Exploratory Data Analysis,https://www.datacamp.com/courses/exploratory-data-analysis-in-r
+course,Exploratory Data Analysis in SQL,SQL,Exploratory Data Analysis,https://www.datacamp.com/courses/exploratory-data-analysis-in-sql
+course,HR Analytics: Exploring Employee Data in R,R,Exploratory Data Analysis,https://www.datacamp.com/courses/hr-analytics-exploring-employee-data-in-r
+course,Marketing Analytics: Predicting Customer Churn in Python,Python,Exploratory Data Analysis,https://www.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python
+course,Supply Chain Analytics in Python,Python,Exploratory Data Analysis,https://www.datacamp.com/courses/supply-chain-analytics-in-python
+course,Case Study: Data Analysis in Databricks,Databricks,Importing & Cleaning Data,https://www.datacamp.com/courses/case-study-data-analysis-in-databricks
+course,Cleaning Data in Java,Java,Importing & Cleaning Data,https://www.datacamp.com/courses/cleaning-data-in-java
+course,Data-Driven Decision Making for Business,,Leadership,https://www.datacamp.com/courses/data-driven-decision-making-for-business
+course,Marketing Analytics for Business,,Leadership,https://www.datacamp.com/courses/marketing-analytics-for-business
+course,ARIMA Models in Python,Python,Machine Learning,https://www.datacamp.com/courses/arima-models-in-python
+course,Building Recommendation Engines in Python,Python,Machine Learning,https://www.datacamp.com/courses/building-recommendation-engines-in-python
+course,Building Recommendation Engines with PySpark,Spark,Machine Learning,https://www.datacamp.com/courses/recommendation-engines-in-pyspark
+course,CI/CD for Machine Learning,Shell,Machine Learning,https://www.datacamp.com/courses/cicd-for-machine-learning
+course,Cluster Analysis in Python,Python,Machine Learning,https://www.datacamp.com/courses/cluster-analysis-in-python
+course,Cluster Analysis in R,R,Machine Learning,https://www.datacamp.com/courses/cluster-analysis-in-r
+course,Data Privacy and Anonymization in Python,Python,Machine Learning,https://www.datacamp.com/courses/data-privacy-and-anonymization-in-python
+course,Designing Forecasting Pipelines for Production,Python,Machine Learning,https://www.datacamp.com/courses/designing-forecasting-pipelines-for-production
+course,Designing Machine Learning Workflows in Python,Python,Machine Learning,https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python
+course,Developing Machine Learning Models for Production,,Machine Learning,https://www.datacamp.com/courses/developing-machine-learning-models-for-production
+course,Dimensionality Reduction in Python,Python,Machine Learning,https://www.datacamp.com/courses/dimensionality-reduction-in-python
+course,Dimensionality Reduction in R,R,Machine Learning,https://www.datacamp.com/courses/dimensionality-reduction-in-r
+course,End-to-End Machine Learning,Python,Machine Learning,https://www.datacamp.com/courses/end-to-end-machine-learning
+course,Ensemble Methods in Python,Python,Machine Learning,https://www.datacamp.com/courses/ensemble-methods-in-python
+course,Extreme Gradient Boosting with XGBoost,Python,Machine Learning,https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost
+course,Feature Engineering for Machine Learning in Python,Python,Machine Learning,https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python
+course,Feature Engineering for NLP in Python,Python,Machine Learning,https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python
+course,Feature Engineering in R,R,Machine Learning,https://www.datacamp.com/courses/feature-engineering-in-r
+course,Fraud Detection in Python,Python,Machine Learning,https://www.datacamp.com/courses/fraud-detection-in-python
+course,Fraud Detection in R,R,Machine Learning,https://www.datacamp.com/courses/fraud-detection-in-r
+course,Fully Automated MLOps,,Machine Learning,https://www.datacamp.com/courses/fully-automated-mlops
+course,HR Analytics: Predicting Employee Churn in Python,Python,Machine Learning,https://www.datacamp.com/courses/hr-analytics-predicting-employee-churn-in-python
+course,HR Analytics: Predicting Employee Churn in R,R,Machine Learning,https://www.datacamp.com/courses/hr-analytics-predicting-employee-churn-in-r
+course,Hyperparameter Tuning in Python,Python,Machine Learning,https://www.datacamp.com/courses/hyperparameter-tuning-in-python
+course,Hyperparameter Tuning in R,R,Machine Learning,https://www.datacamp.com/courses/hyperparameter-tuning-in-r
+course,Image Processing in Python,Python,Machine Learning,https://www.datacamp.com/courses/image-processing-in-python
+course,Intermediate Predictive Analytics in Python,Python,Machine Learning,https://www.datacamp.com/courses/intermediate-predictive-analytics-in-python
+course,Introduction to Data Versioning with DVC,DVC,Machine Learning,https://www.datacamp.com/courses/introduction-to-data-versioning-with-dvc
+course,Introduction to MLflow,MLflow,Machine Learning,https://www.datacamp.com/courses/introduction-to-mlflow
+course,Introduction to Natural Language Processing in R,R,Machine Learning,https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-r
+course,Introduction to Predictive Analytics in Python,Python,Machine Learning,https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python
+course,Introduction to TensorFlow in Python,Python,Machine Learning,https://www.datacamp.com/courses/introduction-to-tensorflow-in-python
+course,Linear Classifiers in Python,Python,Machine Learning,https://www.datacamp.com/courses/linear-classifiers-in-python
+course,Machine Learning for Business,,Machine Learning,https://www.datacamp.com/courses/machine-learning-for-business
+course,Machine Learning for Finance in Python,Python,Machine Learning,https://www.datacamp.com/courses/machine-learning-for-finance-in-python
+course,Machine Learning for Marketing Analytics in R,R,Machine Learning,https://www.datacamp.com/courses/machine-learning-for-marketing-analytics-in-r
+course,Machine Learning for Marketing in Python,Python,Machine Learning,https://www.datacamp.com/courses/machine-learning-for-marketing-in-python
+course,Machine Learning for Time Series Data in Python,Python,Machine Learning,https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python
+course,Machine Learning in the Tidyverse,R,Machine Learning,https://www.datacamp.com/courses/machine-learning-in-the-tidyverse
+course,Machine Learning with caret in R,R,Machine Learning,https://www.datacamp.com/courses/machine-learning-with-caret-in-r
+course,Machine Learning with PySpark,Spark,Machine Learning,https://www.datacamp.com/courses/machine-learning-with-pyspark
+course,Machine Learning with Tree-Based Models in Python,Python,Machine Learning,https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python
+course,Machine Learning with Tree-Based Models in R,R,Machine Learning,https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-r
+course,Market Basket Analysis in Python,Python,Machine Learning,https://www.datacamp.com/courses/market-basket-analysis-in-python
+course,MLOps Concepts,,Machine Learning,https://www.datacamp.com/courses/mlops-concepts
+course,MLOps Deployment and Life Cycling,,Machine Learning,https://www.datacamp.com/courses/mlops-deployment-and-life-cycling
+course,MLOps for Business,,Machine Learning,https://www.datacamp.com/courses/mlops-for-business
+course,Model Validation in Python,Python,Machine Learning,https://www.datacamp.com/courses/model-validation-in-python
+course,Modeling with tidymodels in R,R,Machine Learning,https://www.datacamp.com/courses/modeling-with-tidymodels-in-r
+course,Monitoring Machine Learning Concepts,,Machine Learning,https://www.datacamp.com/courses/monitoring-machine-learning-concepts
+course,Monitoring Machine Learning in Python,Python,Machine Learning,https://www.datacamp.com/courses/monitoring-machine-learning-in-python
+course,Natural Language Processing with spaCy,Python,Machine Learning,https://www.datacamp.com/courses/natural-language-processing-with-spacy
+course,Practicing Machine Learning Interview Questions in Python,Python,Machine Learning,https://www.datacamp.com/courses/practicing-machine-learning-interview-questions-in-python
+course,Predicting CTR with Machine Learning in Python,Python,Machine Learning,https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python
+course,Preprocessing for Machine Learning in Python,Python,Machine Learning,https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python
+course,Sentiment Analysis in Python,Python,Machine Learning,https://www.datacamp.com/courses/sentiment-analysis-in-python
+course,Sentiment Analysis in R,R,Machine Learning,https://www.datacamp.com/courses/sentiment-analysis-in-r
+course,Supervised Learning in R: Classification,R,Machine Learning,https://www.datacamp.com/courses/supervised-learning-in-r-classification
+course,Supervised Learning in R: Regression,R,Machine Learning,https://www.datacamp.com/courses/supervised-learning-in-r-regression
+course,Supervised Learning with scikit-learn,Python,Machine Learning,https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
+course,Support Vector Machines in R,R,Machine Learning,https://www.datacamp.com/courses/support-vector-machines-in-r
+course,Text Mining with Bag-of-Words in R,R,Machine Learning,https://www.datacamp.com/courses/text-mining-with-bag-of-words-in-r
+course,Understanding Machine Learning,,Machine Learning,https://www.datacamp.com/courses/understanding-machine-learning
+course,Unsupervised Learning in Python,Python,Machine Learning,https://www.datacamp.com/courses/unsupervised-learning-in-python
+course,Unsupervised Learning in R,R,Machine Learning,https://www.datacamp.com/courses/unsupervised-learning-in-r
+course,Winning a Kaggle Competition in Python,Python,Machine Learning,https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python
+course,Data Ingestion and Semantic Models with Microsoft Fabric,Azure,Other,https://www.datacamp.com/courses/data-ingestion-and-semantic-models-with-microsoft-fabric
+course,Introduction to Claude Models,Claude,Other,https://www.datacamp.com/courses/introduction-to-claude-models
+course,Introduction to Microsoft Fabric,Azure,Other,https://www.datacamp.com/courses/introduction-to-microsoft-fabric
+course,Plan and Implement a Data Analytics Environment with Microsoft Fabric,Azure,Other,https://www.datacamp.com/courses/plan-and-implement-a-data-analytics-environment-with-microsoft-fabric
+course,Transform and Analyze Data with Microsoft Fabric,Azure,Other,https://www.datacamp.com/courses/transform-and-analyze-data-with-microsoft-fabric
+course,A/B Testing in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/ab-testing-in-python
+course,A/B Testing in R,R,Probability & Statistics,https://www.datacamp.com/courses/ab-testing-in-r
+course,Advanced Probability: Uncertainty in Data,,Probability & Statistics,https://www.datacamp.com/courses/advanced-probability-uncertainty-in-data
+course,Analyzing Survey Data in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/analyzing-survey-data-in-python
+course,Analyzing Survey Data in R,R,Probability & Statistics,https://www.datacamp.com/courses/analyzing-survey-data-in-r
+course,Anomaly Detection in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/anomaly-detection-in-python
+course,ARIMA Models in R,R,Probability & Statistics,https://www.datacamp.com/courses/arima-models-in-r
+course,Bayesian Data Analysis in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/bayesian-data-analysis-in-python
+course,Bayesian Modeling with RJAGS,R,Probability & Statistics,https://www.datacamp.com/courses/bayesian-modeling-with-rjags
+course,Bayesian Regression Modeling with rstanarm,R,Probability & Statistics,https://www.datacamp.com/courses/bayesian-regression-modeling-with-rstanarm
+course,Building Response Models in R,R,Probability & Statistics,https://www.datacamp.com/courses/building-response-models-in-r
+course,Case Studies in Statistical Thinking,Python,Probability & Statistics,https://www.datacamp.com/courses/case-studies-in-statistical-thinking
+course,Case Studies: Network Analysis in R,R,Probability & Statistics,https://www.datacamp.com/courses/case-studies-network-analysis-in-r
+course,Case Study: Analyzing City Time Series Data in R,R,Probability & Statistics,https://www.datacamp.com/courses/case-study-analyzing-time-series-data-in-r
+course,ChIP-seq with Bioconductor in R,R,Probability & Statistics,https://www.datacamp.com/courses/chip-seq-with-bioconductor-in-r
+course,Choice Modeling for Marketing in R,R,Probability & Statistics,https://www.datacamp.com/courses/choice-modeling-for-marketing-in-r
+course,Differential Expression Analysis with limma in R,R,Probability & Statistics,https://www.datacamp.com/courses/differential-expression-analysis-with-limma-in-r
+course,Discrete Event Simulation in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/discrete-event-simulation-in-python
+course,Error and Uncertainty in Google Sheets,Google Sheets,Probability & Statistics,https://www.datacamp.com/courses/error-and-uncertainty-in-google-sheets
+course,Experimental Design in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/experimental-design-in-python
+course,Experimental Design in R,R,Probability & Statistics,https://www.datacamp.com/courses/experimental-design-in-r
+course,Factor Analysis in R,R,Probability & Statistics,https://www.datacamp.com/courses/factor-analysis-in-r
+course,Forecasting in R,R,Probability & Statistics,https://www.datacamp.com/courses/forecasting-in-r
+course,Forecasting Product Demand in R,R,Probability & Statistics,https://www.datacamp.com/courses/forecasting-product-demand-in-r
+course,Foundations of Inference in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/foundations-of-inference-in-python
+course,Foundations of Inference in R,R,Probability & Statistics,https://www.datacamp.com/courses/foundations-of-inference-in-r
+course,Foundations of Probability in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/foundations-of-probability-in-python
+course,Foundations of Probability in R,R,Probability & Statistics,https://www.datacamp.com/courses/foundations-of-probability-in-r
+course,Fundamentals of Bayesian Data Analysis in R,R,Probability & Statistics,https://www.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r
+course,Generalized Linear Models in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/generalized-linear-models-in-python
+course,Generalized Linear Models in R,R,Probability & Statistics,https://www.datacamp.com/courses/generalized-linear-models-in-r
+course,Hierarchical and Mixed Effects Models in R,R,Probability & Statistics,https://www.datacamp.com/courses/hierarchical-and-mixed-effects-models-in-r
+course,Hypothesis Testing in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/hypothesis-testing-in-python
+course,Hypothesis Testing in R,R,Probability & Statistics,https://www.datacamp.com/courses/hypothesis-testing-in-r
+course,Inference for Categorical Data in R,R,Probability & Statistics,https://www.datacamp.com/courses/inference-for-categorical-data-in-r
+course,Inference for Linear Regression in R,R,Probability & Statistics,https://www.datacamp.com/courses/inference-for-linear-regression-in-r
+course,Inference for Numerical Data in R,R,Probability & Statistics,https://www.datacamp.com/courses/inference-for-numerical-data-in-r
+course,Intermediate Network Analysis in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/intermediate-network-analysis-in-python
+course,Intermediate Regression in R,R,Probability & Statistics,https://www.datacamp.com/courses/intermediate-regression-in-r
+course,Intermediate Regression with statsmodels in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/intermediate-regression-with-statsmodels-in-python
+course,Introduction to Anomaly Detection in R,R,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-anomaly-detection-in-r
+course,Introduction to Bioconductor in R,R,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-bioconductor-in-r
+course,Introduction to Linear Modeling in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python
+course,Introduction to Network Analysis in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-network-analysis-in-python
+course,Introduction to Regression in R,R,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-regression-in-r
+course,Introduction to Regression with statsmodels in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python
+course,Introduction to Statistics,,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-statistics
+course,Introduction to Statistics in Google Sheets,Google Sheets,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-statistics-in-google-sheets
+course,Introduction to Statistics in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-statistics-in-python
+course,Introduction to Statistics in R,R,Probability & Statistics,https://www.datacamp.com/courses/introduction-to-statistics-in-r
+course,Linear Algebra for Data Science in R,R,Probability & Statistics,https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
+course,Mixture Models in R,R,Probability & Statistics,https://www.datacamp.com/courses/mixture-models-in-r
+course,Modeling with Data in the Tidyverse,R,Probability & Statistics,https://www.datacamp.com/courses/modeling-with-data-in-the-tidyverse
+course,Monte Carlo Simulations in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/monte-carlo-simulations-in-python
+course,Multivariate Probability Distributions in R,R,Probability & Statistics,https://www.datacamp.com/courses/multivariate-probability-distributions-in-r
+course,Network Analysis in R,R,Probability & Statistics,https://www.datacamp.com/courses/network-analysis-in-r
+course,Nonlinear Modeling with Generalized Additive Models (GAMs) in R,R,Probability & Statistics,https://www.datacamp.com/courses/nonlinear-modeling-with-generalized-additive-models-gams-in-r
+course,Practicing Statistics Interview Questions in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/practicing-statistics-interview-questions-in-python
+course,Practicing Statistics Interview Questions in R,R,Probability & Statistics,https://www.datacamp.com/courses/practicing-statistics-interview-questions-in-r
+course,Predictive Analytics using Networked Data in R,R,Probability & Statistics,https://www.datacamp.com/courses/predictive-analytics-using-networked-data-in-r
+course,Probability Puzzles in R,R,Probability & Statistics,https://www.datacamp.com/courses/probability-puzzles-in-r
+course,RNA-Seq with Bioconductor in R,R,Probability & Statistics,https://www.datacamp.com/courses/rna-seq-with-bioconductor-in-r
+course,Sampling in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/sampling-in-python
+course,Sampling in R,R,Probability & Statistics,https://www.datacamp.com/courses/sampling-in-r
+course,Statistical Simulation in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/statistical-simulation-in-python
+course,Statistical Techniques in Tableau,Tableau,Probability & Statistics,https://www.datacamp.com/courses/statistical-techniques-in-tableau
+course,Statistical Thinking in Python (Part 1),Python,Probability & Statistics,https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
+course,Statistical Thinking in Python (Part 2),Python,Probability & Statistics,https://www.datacamp.com/courses/statistical-thinking-in-python-part-2
+course,Structural Equation Modeling with lavaan in R,R,Probability & Statistics,https://www.datacamp.com/courses/structural-equation-modeling-with-lavaan-in-r
+course,Survival Analysis in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/survival-analysis-in-python
+course,Survival Analysis in R,R,Probability & Statistics,https://www.datacamp.com/courses/survival-analysis-in-r
+course,Time Series Analysis in Python,Python,Probability & Statistics,https://www.datacamp.com/courses/time-series-analysis-in-python
+course,Time Series Analysis in R,R,Probability & Statistics,https://www.datacamp.com/courses/time-series-analysis-in-r
+course,Advanced Git,Git,Programming,https://www.datacamp.com/courses/advanced-git
+course,Building and Optimizing Triggers in SQL Server,SQL,Programming,https://www.datacamp.com/courses/building-and-optimizing-triggers-in-sql-server
+course,Building Web Applications with Shiny in R,R,Programming,https://www.datacamp.com/courses/building-web-applications-with-shiny-in-r
+course,Case Study: Building Software in Python,Python,Programming,https://www.datacamp.com/courses/case-study-building-software-in-python
+course,Concepts in Computer Science,,Programming,https://www.datacamp.com/courses/concepts-in-computer-science
+course,Containerization and Virtualization Concepts,Docker,Programming,https://www.datacamp.com/courses/containerization-and-virtualization-concepts
+course,Data Structures and Algorithms in Python,Python,Programming,https://www.datacamp.com/courses/data-structures-and-algorithms-in-python
+course,Data Types and Exceptions in Java,Java,Programming,https://www.datacamp.com/courses/data-types-and-exceptions-in-java
+course,Data Types in Python,Python,Programming,https://www.datacamp.com/courses/data-types-in-python
+course,Defensive R Programming,R,Programming,https://www.datacamp.com/courses/defensive-r-programming
+course,Developing Python Packages,Python,Programming,https://www.datacamp.com/courses/developing-python-packages
+course,Developing R Packages,R,Programming,https://www.datacamp.com/courses/developing-r-packages
+course,DevOps Concepts,,Programming,https://www.datacamp.com/courses/devops-concepts
+course,Foundations of Functional Programming with purrr,R,Programming,https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr
+course,Hierarchical and Recursive Queries in SQL Server,SQL,Programming,https://www.datacamp.com/courses/hierarchical-and-recursive-queries-in-sql-server
+course,Importing Data in Java,Java,Programming,https://www.datacamp.com/courses/importing-data-in-java
+course,Improving Query Performance in PostgreSQL,SQL,Programming,https://www.datacamp.com/courses/improving-query-performance-in-postgresql
+course,Improving Query Performance in SQL Server,SQL,Programming,https://www.datacamp.com/courses/improving-query-performance-in-sql-server
+course,Input/Output and Streams in Java,Java,Programming,https://www.datacamp.com/courses/inputoutput-and-streams-in-java
+course,Intermediate Docker,Docker,Programming,https://www.datacamp.com/courses/intermediate-docker
+course,Intermediate Functional Programming with purrr,R,Programming,https://www.datacamp.com/courses/intermediate-functional-programming-with-purrr
+course,Intermediate Git,Git,Programming,https://www.datacamp.com/courses/intermediate-git
+course,Intermediate GitHub Concepts,GitHub,Programming,https://www.datacamp.com/courses/intermediate-github-concepts
+course,Intermediate Java,Java,Programming,https://www.datacamp.com/courses/intermediate-java
+course,Intermediate Object-Oriented Programming in Python,Python,Programming,https://www.datacamp.com/courses/intermediate-object-oriented-programming-in-python
+course,Intermediate Python,Python,Programming,https://www.datacamp.com/courses/intermediate-python
+course,Intermediate Python for Developers,Python,Programming,https://www.datacamp.com/courses/intermediate-python-for-developers
+course,Intermediate R,R,Programming,https://www.datacamp.com/courses/intermediate-r
+course,Intermediate Regular Expressions in R,R,Programming,https://www.datacamp.com/courses/intermediate-regular-expressions-in-r
+course,Intermediate SQL Server,SQL,Programming,https://www.datacamp.com/courses/intermediate-sql-server
+course,Introduction to APIs in Python,Python,Programming,https://www.datacamp.com/courses/introduction-to-apis-in-python
+course,Introduction to Bash Scripting,Shell,Programming,https://www.datacamp.com/courses/introduction-to-bash-scripting
+course,Introduction to Data Science in Python,Python,Programming,https://www.datacamp.com/courses/introduction-to-data-science-in-python
+course,Introduction to Docker,Docker,Programming,https://www.datacamp.com/courses/introduction-to-docker
+course,Introduction to FastAPI,FastAPI,Programming,https://www.datacamp.com/courses/introduction-to-fastapi
+course,Introduction to Functions in Python,Python,Programming,https://www.datacamp.com/courses/introduction-to-functions-in-python
+course,Introduction to Git,Git,Programming,https://www.datacamp.com/courses/introduction-to-git
+course,Introduction to GitHub Concepts,GitHub,Programming,https://www.datacamp.com/courses/introduction-to-github-concepts
+course,Introduction to Java,Java,Programming,https://www.datacamp.com/courses/introduction-to-java
+course,Introduction to Kubernetes,Kubernetes,Programming,https://www.datacamp.com/courses/introduction-to-kubernetes
+course,Introduction to Object-Oriented Programming in Java,Java,Programming,https://www.datacamp.com/courses/introduction-to-object-oriented-programming-in-java
+course,Introduction to Object-Oriented Programming in Python,Python,Programming,https://www.datacamp.com/courses/introduction-to-object-oriented-programming-in-python
+course,Introduction to Optimization in Python,Python,Programming,https://www.datacamp.com/courses/introduction-to-optimization-in-python
+course,Introduction to Python,Python,Programming,https://www.datacamp.com/courses/intro-to-python-for-data-science
+course,Introduction to Python for Developers,Python,Programming,https://www.datacamp.com/courses/introduction-to-python-for-developers
+course,Introduction to R,R,Programming,https://www.datacamp.com/courses/free-introduction-to-r
+course,Introduction to Relational Databases in SQL,SQL,Programming,https://www.datacamp.com/courses/introduction-to-relational-databases-in-sql
+course,Introduction to Shell,Shell,Programming,https://www.datacamp.com/courses/introduction-to-shell
+course,Introduction to SQL Server,SQL,Programming,https://www.datacamp.com/courses/introduction-to-sql-server
+course,Introduction to Testing in Java,Java,Programming,https://www.datacamp.com/courses/introduction-to-testing-in-java
+course,Introduction to Testing in Python,Python,Programming,https://www.datacamp.com/courses/introduction-to-testing-in-python
+course,Introduction to the Tidyverse,R,Programming,https://www.datacamp.com/courses/introduction-to-the-tidyverse
+course,Introduction to Writing Functions in R,R,Programming,https://www.datacamp.com/courses/introduction-to-writing-functions-in-r
+course,Object-Oriented Programming in Python,Python,Programming,https://www.datacamp.com/courses/object-oriented-programming-in-python
+course,Object-Oriented Programming with S3 and R6 in R,R,Programming,https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+course,Optimizing Code in Java,Java,Programming,https://www.datacamp.com/courses/optimizing-code-in-java
+course,Optimizing R Code with Rcpp,R,Programming,https://www.datacamp.com/courses/optimizing-r-code-with-rcpp
+course,Parallel Programming in R,R,Programming,https://www.datacamp.com/courses/parallel-programming-in-r
+course,Parallel Programming with Dask in Python,Python,Programming,https://www.datacamp.com/courses/parallel-programming-with-dask-in-python
+course,PostgreSQL Summary Stats and Window Functions,SQL,Programming,https://www.datacamp.com/courses/postgresql-summary-stats-and-window-functions
+course,Practicing Coding Interview Questions in Python,Python,Programming,https://www.datacamp.com/courses/practicing-coding-interview-questions-in-python
+course,Programming Paradigm Concepts,,Programming,https://www.datacamp.com/courses/programming-paradigms-concepts
+course,Python for MATLAB Users,Python,Programming,https://www.datacamp.com/courses/python-for-matlab-users
+course,Python for R Users,Python,Programming,https://www.datacamp.com/courses/python-for-r-users
+course,Python for Spreadsheet Users,Python,Programming,https://www.datacamp.com/courses/python-for-spreadsheet-users
+course,Python Toolbox,Python,Programming,https://www.datacamp.com/courses/python-toolbox
+course,Querying a PostgreSQL Database in Java,Java,Programming,https://www.datacamp.com/courses/querying-a-postgresql-database-in-java
+course,R For SAS Users,R,Programming,https://www.datacamp.com/courses/r-for-sas-users
+course,Regular Expressions in Python,Python,Programming,https://www.datacamp.com/courses/regular-expressions-in-python
+course,Scalable Data Processing in R,R,Programming,https://www.datacamp.com/courses/scalable-data-processing-in-r
+course,Software Development with Claude Code,Claude,Programming,https://www.datacamp.com/courses/software-development-with-claude-code
+course,Software Engineering Principles in Python,Python,Programming,https://www.datacamp.com/courses/software-engineering-principles-in-python
+course,String Manipulation with stringr in R,R,Programming,https://www.datacamp.com/courses/string-manipulation-with-stringr-in-r
+course,Transactions and Error Handling in PostgreSQL,SQL,Programming,https://www.datacamp.com/courses/transactions-and-error-handling-in-postgresql
+course,Transactions and Error Handling in SQL Server,SQL,Programming,https://www.datacamp.com/courses/transactions-and-error-handling-in-sql-server
+course,Working with Dates and Times in Python,Python,Programming,https://www.datacamp.com/courses/working-with-dates-and-times-in-python
+course,Working with Dates and Times in R,R,Programming,https://www.datacamp.com/courses/working-with-dates-and-times-in-r
+course,Writing Efficient Code with pandas,Python,Programming,https://www.datacamp.com/courses/writing-efficient-code-with-pandas
+course,Writing Efficient Python Code,Python,Programming,https://www.datacamp.com/courses/writing-efficient-python-code
+course,Writing Efficient R Code,R,Programming,https://www.datacamp.com/courses/writing-efficient-r-code
+course,Writing Functions and Stored Procedures in SQL Server,SQL,Programming,https://www.datacamp.com/courses/writing-functions-and-stored-procedures-in-sql-server
+course,Writing Functions in Python,Python,Programming,https://www.datacamp.com/courses/writing-functions-in-python
+course,Analyzing Business Data in SQL,SQL,Reporting,https://www.datacamp.com/courses/analyzing-business-data-in-sql
+course,Applying SQL to Real-World Problems,SQL,Reporting,https://www.datacamp.com/courses/applying-sql-to-real-world-problems
+course,Building Dashboards with flexdashboard,R,Reporting,https://www.datacamp.com/courses/building-dashboards-with-flexdashboard
+course,Building Dashboards with shinydashboard,R,Reporting,https://www.datacamp.com/courses/building-dashboards-with-shinydashboard
+course,Business Process Analytics in R,R,Reporting,https://www.datacamp.com/courses/business-process-analytics-in-r
+course,Case Studies: Building Web Applications with Shiny in R,R,Reporting,https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r
+course,Case Study: Analyzing Customer Churn in Excel,Excel,Reporting,https://www.datacamp.com/courses/case-study-analyzing-customer-churn-in-excel
+course,Data Analysis in Excel,Excel,Reporting,https://www.datacamp.com/courses/data-analysis-in-excel
+course,Data Modeling in Sigma,Sigma,Reporting,https://www.datacamp.com/courses/data-modeling-in-sigma
+course,DataLab with SQL,DataLab,Reporting,https://www.datacamp.com/courses/datalab-with-sql
+course,Introduction to AI Apps in Sigma,Sigma,Reporting,https://www.datacamp.com/courses/introduction-to-ai-apps-in-sigma
+course,Introduction to DataLab,DataLab,Reporting,https://www.datacamp.com/courses/introduction-to-datalab
+course,Marketing Analytics in Google Sheets,Google Sheets,Reporting,https://www.datacamp.com/courses/marketing-analytics-in-google-sheets
+course,Power BI for End Users,Power BI,Reporting,https://www.datacamp.com/courses/power-bi-for-end-users
+course,Reporting in SQL,SQL,Reporting,https://www.datacamp.com/courses/reporting-in-sql
+course,Reporting with R Markdown,R,Reporting,https://www.datacamp.com/courses/reporting-with-rmarkdown
