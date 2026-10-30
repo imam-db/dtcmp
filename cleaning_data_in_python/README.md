@@ -20,4 +20,8 @@ In this chapter, you’ll dive into more advanced data cleaning problems, such a
 
 ## [Record Linkage](./04_record_linkage/)
 
-Record linkage is a powerful technique used to merge multiple datasets together, used when values have typos or different spellings. In this chapter, you'll learn how to link records by calculating the similarity between strings—you’ll then use your new skills to join two restaurant review datasets into one clean master dataset. 
+Record linkage is a powerful technique used to merge multiple datasets together, used when values have typos or different spellings. In this chapter, you'll learn how to link records by calculating the similarity between strings—you’ll then use your new skills to join two restaurant review datasets into one clean master dataset.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

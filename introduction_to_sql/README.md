@@ -19,4 +19,8 @@ Before writing any SQL queries, it’s important to understand the underlying da
 
 ## [Querying](./02_querying/)
 
-Learn your first SQL keywords for selecting relevant data from database tables! After practicing querying skills in a database of books, you’ll customize query results using aliasing and save them as views so they can be shared. Finally, you’ll explore the differences between SQL flavors and databases such as PostgreSQL and SQL Server. 
+Learn your first SQL keywords for selecting relevant data from database tables! After practicing querying skills in a database of books, you’ll customize query results using aliasing and save them as views so they can be shared. Finally, you’ll explore the differences between SQL flavors and databases such as PostgreSQL and SQL Server.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

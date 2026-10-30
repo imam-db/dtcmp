@@ -20,3 +20,7 @@ You'll learn how to use functions, methods, and packages to efficiently leverage
 ## [Numpy](./04_numpy/)
 
 NumPy is a fundamental Python package to efficiently practice data science. Learn to work with powerful tools in the NumPy array, and get started with data exploration.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

@@ -16,4 +16,8 @@ Now that you understand the power of cloud computing, it’s time to discover ho
 
 ## [Cloud Providers and Case Studies](./03_cloud_providers_and_case_studies/)
 
-In the final chapter, you’ll be introduced to the major cloud infrastructure players, including AWS, Microsoft Azure, and Google Cloud. You’ll become more familiar with their market positioning, the products they offer, and who their main customers are and how they use cloud computing. 
+In the final chapter, you’ll be introduced to the major cloud infrastructure players, including AWS, Microsoft Azure, and Google Cloud. You’ll become more familiar with their market positioning, the products they offer, and who their main customers are and how they use cloud computing.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

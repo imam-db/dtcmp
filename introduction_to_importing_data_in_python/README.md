@@ -16,4 +16,8 @@ You've learned how to import flat files, but there are many other file types you
 
 ## [Working with relational databases in python](./03_working_with_relational_databases_in_python/)
 
-In this chapter, you'll learn how to extract meaningful data from relational databases, an essential skill for any data scientist. You will learn about relational models, how to create SQL queries, how to filter and order your SQL records, and how to perform advanced queries by joining database tables. 
+In this chapter, you'll learn how to extract meaningful data from relational databases, an essential skill for any data scientist. You will learn about relational models, how to create SQL queries, how to filter and order your SQL records, and how to perform advanced queries by joining database tables.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

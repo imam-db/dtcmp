@@ -19,4 +19,8 @@ This chapter covers more complex efficiency tips and tricks. You'll learn a few 
 
 ## [Basic Pandas Optimizations](./04_basic_pandas_optimizations/)
 
-This chapter offers a brief introduction on how to efficiently work with pandas DataFrames. You'll learn the various options you have for iterating over a DataFrame. Then, you'll learn how to efficiently apply functions to data stored in a DataFrame. 
+This chapter offers a brief introduction on how to efficiently work with pandas DataFrames. You'll learn the various options you have for iterating over a DataFrame. Then, you'll learn how to efficiently apply functions to data stored in a DataFrame.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

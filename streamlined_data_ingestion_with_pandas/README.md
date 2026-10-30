@@ -20,3 +20,7 @@ Combine pandas with the powers of SQL to find out just how many problems New Yor
 ## [Importing JSON Data and Working with APIs](./04_importing_json_data_and_working_with_apis/)
 
 Learn how to work with JSON data and web APIs by exploring a public dataset and getting cafe recommendations from Yelp. End by learning some techniques to combine datasets once they have been loaded into data frames.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

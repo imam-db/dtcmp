@@ -19,4 +19,8 @@ In this chapter, you'll learn tips and tricks for configuring Git to make you mo
 
 ## [Collaborating with Git](./04_collaborating_with_git/)
 
-This final chapter is all about collaboration! You'll gain an introduction to remote repositories and learn how to work with them to synchronize content between the cloud and your local computer. You'll also see how to create new repositories and clone existing ones, along with discovering a workflow to minimize the risk of conflicts between local and remote repositories. 
+This final chapter is all about collaboration! You'll gain an introduction to remote repositories and learn how to work with them to synchronize content between the cloud and your local computer. You'll also see how to create new repositories and clone existing ones, along with discovering a workflow to minimize the risk of conflicts between local and remote repositories.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)
