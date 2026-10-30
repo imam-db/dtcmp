@@ -1,0 +1,305 @@
+# Removed DataCamp-owned assets (working tree)
+
+These files were deleted from the branch tip in this PR. **They remain in git history** on older commits. Rewriting history or making the repository private is Imam's decision and was **not** done here.
+
+Total removed: **218** PDF files.
+
+- `analyzing_police_activity_with_pandas/01_Preparing_the_data_for_analysis/chapter1.pdf`
+- `analyzing_police_activity_with_pandas/02_exploring_the_relationship_between_gender_and_policing/chapter2-1.pdf`
+- `analyzing_police_activity_with_pandas/03_visual_exploratory_data_analysis/chapter3-2.pdf`
+- `analyzing_police_activity_with_pandas/04_analyzing_the_effect_of_weather_on_policing/chapter4.pdf`
+- `big_data_fundamental_with_pyspark/01_introduction_to_big_data_analysis_with_spark/chapter1.pdf`
+- `big_data_fundamental_with_pyspark/02_programming_in_pyspark_rdd/chapter2-1.pdf`
+- `big_data_fundamental_with_pyspark/03_pyspark_sql_dataframes/chapter3.pdf`
+- `big_data_fundamental_with_pyspark/04_machine_learning_with_pyspark_mllib/chapter4-1.pdf`
+- `cleaning_data_in_python/01_common_data_problems/chapter1.pdf`
+- `cleaning_data_in_python/02_text_and_categorical_data_problems/chapter2-1.pdf`
+- `cleaning_data_in_python/03_advanced_data_problems/chapter3-2.pdf`
+- `cleaning_data_in_python/04_record_linkage/chapter4.pdf`
+- `cleaning_data_with_pyspark/01_dataframe_details/chapter1.pdf`
+- `cleaning_data_with_pyspark/02_manipulating_dataframes_in_the_real_world/chapter2-1.pdf`
+- `cleaning_data_with_pyspark/03_improving_performance/chapter3-2.pdf`
+- `cleaning_data_with_pyspark/04_complex_procesing_and_data_pipelines/chapter4.pdf`
+- `data_manipulation_with_pandas/01_transforming_dataframes/chapter1.pdf`
+- `data_manipulation_with_pandas/02_aggregating_dataframes/chapter2-1.pdf`
+- `data_manipulation_with_pandas/03_slicing_and_indexing_dataframes/chapter3-2.pdf`
+- `data_manipulation_with_pandas/04_creating_and_visualizing_dataframes/chapter4.pdf`
+- `data_processing_in_shell/01_downloading_data_on_the_command_line/chapter1-1.pdf`
+- `data_processing_in_shell/02_data_cleaning_and_munging_on_the_command_line/chapter2-1.pdf`
+- `data_processing_in_shell/03_database_operations_on_the_command_line/chapter3-2.pdf`
+- `data_processing_in_shell/04_data_pipeline_on_the_command_line/chapter4.pdf`
+- `data_types_for_data_science_in_python/01_fundamental_sequence_data_types/chapter1.pdf`
+- `data_types_for_data_science_in_python/02_dictionaries_the_root_of_python/chapter2.pdf`
+- `data_types_for_data_science_in_python/03_numeric_data_types_booleans_and_sets/chapter3-2.pdf`
+- `data_visualization_in_spreadsheets/01_business_intelligence_and_using_dashboards/chapter1.pdf`
+- `data_visualization_in_spreadsheets/02_efficient_column_charts/chapter2.pdf`
+- `data_visualization_in_spreadsheets/03_dashboard_controls/chapter3-2.pdf`
+- `data_visualization_in_spreadsheets/04_other_charts_for_your_dashboard/chapter4.pdf`
+- `data_visualization_in_spreadsheets/05_conditional_formatting/chapter5.pdf`
+- `database_design/01_processing_storing_and_organizing_data/chapter1.pdf`
+- `database_design/02_database_schemas_and_normalization/chapter2-1.pdf`
+- `database_design/03_database_views/chapter3-2.pdf`
+- `database_design/04_database_management/chapter4.pdf`
+- `developing_python_packages/01_from_loose_code_to_local_package/chapter1.pdf`
+- `developing_python_packages/02_install_your_package_from_anywhere/chapter2.pdf`
+- `developing_python_packages/03_increasing_your_package_quality/chapter3-2.pdf`
+- `developing_python_packages/04_rapid_package_development/chapter4.pdf`
+- `exploratory_data_anaylisis_in_python/01_getting_to_know_a_dataset/chapter1.pdf`
+- `exploratory_data_anaylisis_in_python/02_data_cleaning_and_imputation/chapter2-1.pdf`
+- `exploratory_data_anaylisis_in_python/03_relationships_in_data/chapter3-2.pdf`
+- `exploratory_data_anaylisis_in_python/04_turning_exploratory_analysis_into_action/chapter4.pdf`
+- `exploring_and_analyzing_data_in_python/01_read_clean_and_validate/chapter1.pdf`
+- `exploring_and_analyzing_data_in_python/02_distributions/chapter2-1.pdf`
+- `exploring_and_analyzing_data_in_python/03_relationships/chapter3-2.pdf`
+- `exploring_and_analyzing_data_in_python/04_multivariate_thinking/chapter4.pdf`
+- `forming_analytical_questions/01_delivering_value_through_data/chapter1.pdf`
+- `forming_analytical_questions/02_impactful_solutions_need_the_right_questions/chapter2.pdf`
+- `forming_analytical_questions/03_analytical_questions_in_action/chapter3-2.pdf`
+- `hypothesis_testing_in_python/01_introduction_to_hypothesis_testing/chapter1.pdf`
+- `hypothesis_testing_in_python/02_two_sample_and_anova_tests/chapter2-1.pdf`
+- `hypothesis_testing_in_python/03_proportion_tests/chapter3-2.pdf`
+- `hypothesis_testing_in_python/04_non_parametric_tests/chapter4.pdf`
+- `intermediate_importing_data_in_python/01_importing_data_from_the_internet/chapter1.pdf`
+- `intermediate_importing_data_in_python/02_interacting_with_apis_to_impot_data_from_the_web/chapter2-1.pdf`
+- `intermediate_importing_data_in_python/03_diving_deep_into_the_twitter_api/chapter3-2.pdf`
+- `intermediate_python/01_matplotlib/chapter1.pdf`
+- `intermediate_python/02_dictionaries_and_pandas/chapter2-1.pdf`
+- `intermediate_python/03_logic_control_flow_and_filtering/chapter3-2.pdf`
+- `intermediate_python/04_loops/chapter4.pdf`
+- `intermediate_python/05_case_study_hacker_statistics/chapter5.pdf`
+- `intermediate_spreadsheets/01_whats_in_a_cell/chapter1.pdf`
+- `intermediate_spreadsheets/02_working_with_numbers/chapter2.pdf`
+- `intermediate_spreadsheets/03_logic_and_errors/chapter3-2.pdf`
+- `intermediate_spreadsheets/04_positional_matching/chapter4.pdf`
+- `intermediate_sql/01_selecting_data/chapter1-1.pdf`
+- `intermediate_sql/02_filtering_records/chapter2-1.pdf`
+- `intermediate_sql/03_aggregate_functions/chapter3-2.pdf`
+- `intermediate_sql/04_sorting_and_grouping/chapter4.pdf`
+- `intermediate_sql_queries/01_selecting_columns/chapter1.pdf`
+- `introduction_to_airflow_in_python/01_intro_to_airflow/chapter1-1.pdf`
+- `introduction_to_airflow_in_python/02_implementing_airflow_dags/chapter2-1.pdf`
+- `introduction_to_airflow_in_python/03_maintaining_and_monitoring_airflow_workflows/chapter3-2.pdf`
+- `introduction_to_airflow_in_python/04_building_production_pipelines_in_airflow/chapter4.pdf`
+- `introduction_to_aws_boto_in_python/01_putting_files_in_the_cloud/chapter1.pdf`
+- `introduction_to_aws_boto_in_python/02_sharing_files_securely/chapter2-1.pdf`
+- `introduction_to_aws_boto_in_python/03_reporting_and_notifying/chapter3.pdf`
+- `introduction_to_aws_boto_in_python/04_pattern_rekognition/chapter4-1.pdf`
+- `introduction_to_bash_scripting/01_from_commandline_to_bash_script/chapter1-1.pdf`
+- `introduction_to_bash_scripting/02_variables_in_bash_scripting/chapter2-1.pdf`
+- `introduction_to_bash_scripting/03_control_statements_in_bash_scripting/chapter3-2.pdf`
+- `introduction_to_bash_scripting/04_functions_and_automation/chapter4.pdf`
+- `introduction_to_chatgpt/01_interacting_with_chatgpt/chapter1.pdf`
+- `introduction_to_chatgpt/02_adopting_chatgpt/chapter2.pdf`
+- `introduction_to_data_engineering/01_introduction_to_data_engineering/chapter1-1.pdf`
+- `introduction_to_data_engineering/02_data_engineering_toolbox/chapter2-1.pdf`
+- `introduction_to_data_engineering/03_extract_transform_load_(etl)/chapter3-2.pdf`
+- `introduction_to_data_engineering/04_case_study_datacamp/chapter4.pdf`
+- `introduction_to_data_ethics/01_understanding_data_ethics/chapter1.pdf`
+- `introduction_to_data_ethics/02_data_ethics_now_and_forever/chapter2.pdf`
+- `introduction_to_data_ethics/03_data_for_good/chapter3-2.pdf`
+- `introduction_to_data_science_in_python/01_getting_started_in_python/chapter1-1.pdf`
+- `introduction_to_data_science_in_python/02_loading_data_in_pandas/chapter2-1.pdf`
+- `introduction_to_data_science_in_python/03_plotting_data_with_matplotlib/chapter3-2.pdf`
+- `introduction_to_data_science_in_python/04_different_types_of_plots/chapter4.pdf`
+- `introduction_to_data_visualization_with_matplotlib/01_introduction_to_matplotlib/chapter1.pdf`
+- `introduction_to_data_visualization_with_matplotlib/02_plotting_time_series/chapter2-1.pdf`
+- `introduction_to_data_visualization_with_matplotlib/03_quantitive_comparisons_and_statistical_visualizations/chapter3-2.pdf`
+- `introduction_to_data_visualization_with_matplotlib/04_sharing_visualizations_with_others/chapter4.pdf`
+- `introduction_to_data_visualization_with_seaborn/01_introduction_to_seaborn/chapter1.pdf`
+- `introduction_to_data_visualization_with_seaborn/02_visualizing_two_quantitive_variables/chapter2-1.pdf`
+- `introduction_to_data_visualization_with_seaborn/03_visualizing_a_categorical_and_a_quantitive_variable/chapter3-2.pdf`
+- `introduction_to_data_visualization_with_seaborn/04_customizing_seaborn_plots/chapter4.pdf`
+- `introduction_to_databases_in_python/01_basic_of_relational_databases/chapter1.pdf`
+- `introduction_to_databases_in_python/02_applying_filtering_ordering_and_grouping_to_queries/chapter2.pdf`
+- `introduction_to_databases_in_python/03_advanced_sqlalchemy_queries/chapter3-2.pdf`
+- `introduction_to_databases_in_python/04_creating_and_manipulating_your_own_databases/chapter4.pdf`
+- `introduction_to_databases_in_python/05_putting_it_all_together/chapter5.pdf`
+- `introduction_to_docker/01_what_is_docker/chapter1.pdf`
+- `introduction_to_docker/02_using_docker_containers/chapter2-1.pdf`
+- `introduction_to_docker/03_writing_your_own_docker_images/chapter3.pdf`
+- `introduction_to_docker/04_creating_secure_docker_images/chapter4.pdf`
+- `introduction_to_git/01_introduction_to_git/chapter1.pdf`
+- `introduction_to_git/02_making_changes/chapter2-1.pdf`
+- `introduction_to_git/03_git_workflows/chapter3.pdf`
+- `introduction_to_git/04_collaborating_with_git/chapter4.pdf`
+- `introduction_to_importing_data_in_python/01_introduction_and_flat_files/chapter1.pdf`
+- `introduction_to_importing_data_in_python/02_importing_data_from_other_file_types/chapter2-1.pdf`
+- `introduction_to_importing_data_in_python/03_working_with_relational_databases_in_python/chapter3-2.pdf`
+- `introduction_to_mongodb_in_python/01_flexibility_structured_data/chapter1.pdf`
+- `introduction_to_mongodb_in_python/02_working_with_distinct_values_and_sets/chapter2-1.pdf`
+- `introduction_to_mongodb_in_python/03_get_only_what_you_need_and_fast/chapter3-2.pdf`
+- `introduction_to_mongodb_in_python/04_aggregation_pipelines_let_the_server_do_it_for_you/chapter4.pdf`
+- `introduction_to_python/01_python_basics/chapter1-1.pdf`
+- `introduction_to_python/02_python_lists/chapter2-1.pdf`
+- `introduction_to_python/03_functions_and_packages/chapter3-2.pdf`
+- `introduction_to_python/04_numpy/chapter4.pdf`
+- `introduction_to_relational_databases_in_sql/01_your_first_database/chapter1.pdf`
+- `introduction_to_relational_databases_in_sql/02_enforce_data_consistency_with_attribute_constraints/chapter2-1.pdf`
+- `introduction_to_relational_databases_in_sql/03_unique_identify_records_with_key_constraints/chapter3-2.pdf`
+- `introduction_to_relational_databases_in_sql/04_glue_together_tables_with_foreign_keys/chapter4.pdf`
+- `introduction_to_scala/01_a_scalable_language/chapter1.pdf`
+- `introduction_to_scala/02_workflow_function_collections/chapter2-1.pdf`
+- `introduction_to_scala/03_type_systems_control_structures_style/chapter3.pdf`
+- `introduction_to_sql/01_relational_databases/chapter1-1.pdf`
+- `introduction_to_sql/02_querying/chapter2-1.pdf`
+- `introduction_to_statistics_in_python/01_summary_statistics/chapter1.pdf`
+- `introduction_to_statistics_in_python/02_random_numbers_and_probability/chapter2-1.pdf`
+- `introduction_to_statistics_in_python/03_more_distributions_and_the_central_limit_theorem/chapter3-2.pdf`
+- `introduction_to_statistics_in_python/04_correlation_and_experimental_design/chapter4.pdf`
+- `joining_data_in_sql/01_introducing_inner_joins/chapter1-1.pdf`
+- `joining_data_in_sql/02_outer_joins_cross_joins_and_self_joins/chapter2-1.pdf`
+- `joining_data_in_sql/03_set_theory_for_sql_joins/chapter3-2.pdf`
+- `joining_data_in_sql/04_subqueries/chapter4.pdf`
+- `joining_data_with_pandas/01_data_merging_basics/chapter1.pdf`
+- `joining_data_with_pandas/02_merging_table_with_different_join_types/chapter2-1.pdf`
+- `joining_data_with_pandas/03_advanced_merging_and_concatenating/chapter3-2.pdf`
+- `joining_data_with_pandas/04_merging_ordered_and_timeseries_data/chapter4.pdf`
+- `object_oriented_programming_in_python/01_oop_fundamentals/chapter1-1.pdf`
+- `object_oriented_programming_in_python/02_inheritance_and_polymorphism/chapter2-1.pdf`
+- `object_oriented_programming_in_python/03_integrating_with_standard_python/chapter3-2.pdf`
+- `object_oriented_programming_in_python/04_best_practices_of_class_design/chapter4.pdf`
+- `pivot_table_in_spreadsheets/01_introduction_to_pivot_tables_for_google_sheets/chapter1.pdf`
+- `pivot_table_in_spreadsheets/02_behind_the_scenes_of_the_pivot_table/chapter2.pdf`
+- `pivot_table_in_spreadsheets/03_advanced_options/chapter3-2.pdf`
+- `pivot_table_in_spreadsheets/04_editing_data_and_troubleshooting/chapter4.pdf`
+- `python_data_science_toolbox_pt1/01_writing_your_own_functions/chapter1.pdf`
+- `python_data_science_toolbox_pt1/02_default_arguments_variable_length_arguments_and_scope/chapter2.pdf`
+- `python_data_science_toolbox_pt1/03_lambda_functions_and_error_handling/chapter3-2.pdf`
+- `python_data_science_toolbox_pt2/01_using_iterators_in_pythonland/chapter1.pdf`
+- `python_data_science_toolbox_pt2/02_list_comprehensions_and_generators/chapter2.pdf`
+- `python_data_science_toolbox_pt2/03_bringing_it_all_together/chapter3-2.pdf`
+- `regular_expressions_in_python/01_basic_concepts_of_string_manipulation/chapter1.pdf`
+- `regular_expressions_in_python/02_formatting_strings/chapter2.pdf`
+- `regular_expressions_in_python/03_regular_expressions_for_pattern_matching/chapter3-2.pdf`
+- `regular_expressions_in_python/04_advanced_regular_expression_concepts/chapter4.pdf`
+- `sampling_in_python/01_introduction_to_sampling/chapter1.pdf`
+- `sampling_in_python/02_sampling_methods/chapter2-1.pdf`
+- `sampling_in_python/03_sampling_distributions/chapter3-2.pdf`
+- `sampling_in_python/04_bootstrap_distributions/chapter4.pdf`
+- `software_engineering_for_data_scientist_in_python/01_software_engineering_and_data_science/chapter1.pdf`
+- `software_engineering_for_data_scientist_in_python/02_writing_a_python_module/chapter2-1.pdf`
+- `software_engineering_for_data_scientist_in_python/03_utilizing_classes/chapter3.pdf`
+- `software_engineering_for_data_scientist_in_python/04_maintainability/chapter4.pdf`
+- `sql_for_joining_data/01_introduction_to_joins/chapter1.pdf`
+- `sql_for_joining_data/02_outer_joins_and_cross_joins/chapter2.pdf`
+- `sql_for_joining_data/03_set_theory_clauses/chapter3-2.pdf`
+- `sql_for_joining_data/04_subqueries/chapter4.pdf`
+- `streamlined_data_ingestion_with_pandas/01_importing_data_from_flat_files/chapter1-1.pdf`
+- `streamlined_data_ingestion_with_pandas/02_importing_data_from_excel_files/chapter2-1.pdf`
+- `streamlined_data_ingestion_with_pandas/03_importing_data_from_databases/chapter3-2.pdf`
+- `streamlined_data_ingestion_with_pandas/04_importing_json_data_and_working_with_apis/chapter4.pdf`
+- `time_series_analysis_in_postgresql/01_introduction_to_date_and_time_data_in_postgresql/chapter1.pdf`
+- `time_series_analysis_in_postgresql/02_working_with_time_series/chapter2.pdf`
+- `time_series_analysis_in_postgresql/03_using_window_functions_to_analyze_time_series_data/chapter3-2.pdf`
+- `time_series_analysis_in_postgresql/04_calculating_running_totals_and_moving_averages/chapter4.pdf`
+- `understand_data_engineering/01_what_is_data_engineering/chapter1.pdf`
+- `understand_data_engineering/02_storing_data/chapter2-1.pdf`
+- `understand_data_engineering/03_moving_and_processing_data/chapter3-2.pdf`
+- `understanding_cloud_computing/01_introduction_to_cloud_computing/chapter1.pdf`
+- `understanding_cloud_computing/02_cloud_deployment/chapter2-1.pdf`
+- `understanding_cloud_computing/03_cloud_providers_and_case_studies/chapter3-2.pdf`
+- `understanding_data_science/01_introduction_to_data_science/chapter1.pdf`
+- `understanding_data_science/02_data_collection_and_storage/chapter2.pdf`
+- `understanding_data_science/03_preparation_exploration_and_visualization/chapter3-2.pdf`
+- `understanding_data_science/04_experimentation_and_prediction/chapter4.pdf`
+- `understanding_data_visualization/01_visualizing_distributions/chapter1.pdf`
+- `understanding_data_visualization/02_visualizing_two_variables/chapter2-1.pdf`
+- `understanding_data_visualization/03_the_color_and_the_shape/chapter3.pdf`
+- `understanding_data_visualization/04_99_problems_but_a_plot_aint_one_of_them/chapter4.pdf`
+- `unit_testing_for_data_science_in_python/01_unit_testing_basics/chapter1-1.pdf`
+- `unit_testing_for_data_science_in_python/02_intermediate_unit_testing/chapter2-1.pdf`
+- `unit_testing_for_data_science_in_python/03_test_organization_and_execution/chapter3-2.pdf`
+- `unit_testing_for_data_science_in_python/04_testing_models_plots_and_much_more/chapter4.pdf`
+- `web_scraping_in_python/01_introduction_to_html/chapter1.pdf`
+- `web_scraping_in_python/02_xpaths_and_selectors/chapter2.pdf`
+- `web_scraping_in_python/03_css_locators_chaining_and_responses/chapter3-2.pdf`
+- `web_scraping_in_python/04_spiders/chapter4.pdf`
+- `working_with_dates_and_times_in_python/01_dates_and_calendars/chapter1.pdf`
+- `working_with_dates_and_times_in_python/02_combining_dates_and_times/chapter2.pdf`
+- `working_with_dates_and_times_in_python/03_time_zones_and_daylight_saving/chapter3-2.pdf`
+- `working_with_dates_and_times_in_python/04_easy_and_powerful_dates_and_times_in_pandas/chapter4.pdf`
+- `writing_functions_in_python/01_best_practices/chapter1.pdf`
+- `writing_functions_in_python/02_context_managers/chapter2-1.pdf`
+- `writing_functions_in_python/03_decorators/chapter3-2.pdf`
+- `writing_functions_in_python/04_more_on_decorators/chapter4.pdf`
+
+## Course READMEs with copied descriptions replaced
+
+Count: **62**. Replaced with title + link + chapter headings + `Notes (own words)` placeholder.
+
+- `analyzing_data_in_spreadsheets/README.md` (3 paragraph(s) removed)
+- `analyzing_police_activity_with_pandas/README.md` (5 paragraph(s) removed)
+- `big_data_fundamental_with_pyspark/README.md` (5 paragraph(s) removed)
+- `cleaning_data_in_python/README.md` (5 paragraph(s) removed)
+- `cleaning_data_with_pyspark/README.md` (2 paragraph(s) removed)
+- `data_manipulation_with_pandas/README.md` (5 paragraph(s) removed)
+- `data_processing_in_shell/README.md` (4 paragraph(s) removed)
+- `data_types_for_data_science_in_python/README.md` (5 paragraph(s) removed)
+- `data_visualization_in_spreadsheets/README.md` (6 paragraph(s) removed)
+- `database_design/README.md` (5 paragraph(s) removed)
+- `developing_python_packages/README.md` (5 paragraph(s) removed)
+- `exploratory_data_anaylisis_in_python/README.md` (8 paragraph(s) removed)
+- `exploring_and_analyzing_data_in_python/README.md` (5 paragraph(s) removed)
+- `forming_analytical_questions/README.md` (7 paragraph(s) removed)
+- `hypothesis_testing_in_python/README.md` (5 paragraph(s) removed)
+- `intermediate_importing_data_in_python/README.md` (4 paragraph(s) removed)
+- `intermediate_python/README.md` (9 paragraph(s) removed)
+- `intermediate_spreadsheets/README.md` (5 paragraph(s) removed)
+- `intermediate_sql/README.md` (7 paragraph(s) removed)
+- `intermediate_sql_queries/README.md` (5 paragraph(s) removed)
+- `introduction_to_airflow_in_python/README.md` (5 paragraph(s) removed)
+- `introduction_to_aws_boto_in_python/README.md` (5 paragraph(s) removed)
+- `introduction_to_bash_scripting/README.md` (5 paragraph(s) removed)
+- `introduction_to_chatgpt/README.md` (3 paragraph(s) removed)
+- `introduction_to_data_engineering/README.md` (4 paragraph(s) removed)
+- `introduction_to_data_ethics/README.md` (4 paragraph(s) removed)
+- `introduction_to_data_science_in_python/README.md` (5 paragraph(s) removed)
+- `introduction_to_data_visualization_with_matplotlib/README.md` (5 paragraph(s) removed)
+- `introduction_to_data_visualization_with_seaborn/README.md` (7 paragraph(s) removed)
+- `introduction_to_databases_in_python/README.md` (6 paragraph(s) removed)
+- `introduction_to_docker/README.md` (7 paragraph(s) removed)
+- `introduction_to_git/README.md` (5 paragraph(s) removed)
+- `introduction_to_importing_data_in_python/README.md` (4 paragraph(s) removed)
+- `introduction_to_mongodb_in_python/README.md` (5 paragraph(s) removed)
+- `introduction_to_pyspark/README.md` (5 paragraph(s) removed)
+- `introduction_to_python/README.md` (4 paragraph(s) removed)
+- `introduction_to_relational_databases_in_sql/README.md` (5 paragraph(s) removed)
+- `introduction_to_scala/README.md` (4 paragraph(s) removed)
+- `introduction_to_shell/README.md` (6 paragraph(s) removed)
+- `introduction_to_sql/README.md` (7 paragraph(s) removed)
+- `introduction_to_statistics_in_python/README.md` (5 paragraph(s) removed)
+- `joining_data_in_sql/README.md` (7 paragraph(s) removed)
+- `joining_data_with_pandas/README.md` (5 paragraph(s) removed)
+- `object_oriented_programming_in_python/README.md` (5 paragraph(s) removed)
+- `pivot_table_in_spreadsheets/README.md` (5 paragraph(s) removed)
+- `python_data_science_toolbox_pt1/README.md` (4 paragraph(s) removed)
+- `python_data_science_toolbox_pt2/README.md` (4 paragraph(s) removed)
+- `regular_expressions_in_python/README.md` (5 paragraph(s) removed)
+- `sampling_in_python/README.md` (5 paragraph(s) removed)
+- `software_engineering_for_data_scientist_in_python/README.md` (5 paragraph(s) removed)
+- `sql_for_joining_data/README.md` (5 paragraph(s) removed)
+- `streamlined_data_ingestion_with_pandas/README.md` (4 paragraph(s) removed)
+- `time_series_analysis_in_postgresql/README.md` (7 paragraph(s) removed)
+- `understand_data_engineering/README.md` (3 paragraph(s) removed)
+- `understanding_cloud_computing/README.md` (4 paragraph(s) removed)
+- `understanding_data_science/README.md` (5 paragraph(s) removed)
+- `understanding_data_visualization/README.md` (5 paragraph(s) removed)
+- `unit_testing_for_data_science_in_python/README.md` (5 paragraph(s) removed)
+- `web_scraping_in_python/README.md` (5 paragraph(s) removed)
+- `working_with_dates_and_times_in_python/README.md` (5 paragraph(s) removed)
+- `writing_eficient_python_code/README.md` (4 paragraph(s) removed)
+- `writing_functions_in_python/README.md` (4 paragraph(s) removed)
+
+## Kept for Imam review (unsure if own notes)
+
+- `cleaning_data_with_pyspark/README.md`: 'A review of DataFrame fundamentals and the importance of data cleaning.'
+- `cleaning_data_with_pyspark/README.md`: 'A look at various techniques to modify the contents of DataFrames in Spark.'
+- `cleaning_data_with_pyspark/README.md`: 'Improve data cleaning tasks by increasing performance or reducing resource requirements.'
+
+## Root track READMEs kept unchanged
+
+- `README_others.md`
+- `README.md`
+- `README_data_analyst_with_python.md`
+- `README_python_programmer.md`
+- `README_data_engineer.md`
