@@ -28,4 +28,8 @@ SQL allows you to zoom in and out to better understand an entire dataset, its su
 
 ## [Sorting and Grouping](./04_sorting_and_grouping/)
 
-This final chapter teaches you how to sort and group data. These skills will take your analyses to a new level by helping you uncover critical business insights and identify trends and performance. You'll get hands-on experience to determine which films performed the best and how movie durations and budgets changed over time. 
+This final chapter teaches you how to sort and group data. These skills will take your analyses to a new level by helping you uncover critical business insights and identify trends and performance. You'll get hands-on experience to determine which films performed the best and how movie durations and budgets changed over time.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

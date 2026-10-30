@@ -16,4 +16,8 @@ In this chapter, you will gain a deeper understanding of how to import data from
 
 ## [Diving deep into the Twitter API](./03_diving_deep_into_the_twitter_api/)
 
-In this chapter, you will consolidate your knowledge of interacting with APIs in a deep dive into the Twitter streaming API. You'll learn how to stream real-time Twitter data, and how to analyze and visualize it.  
+In this chapter, you will consolidate your knowledge of interacting with APIs in a deep dive into the Twitter streaming API. You'll learn how to stream real-time Twitter data, and how to analyze and visualize it.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

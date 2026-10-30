@@ -21,3 +21,7 @@ It’s time to make your insights even more impactful. Discover how you can add 
 ## [99 problems but a plot ain't one of them](./04_99_problems_but_a_plot_aint_one_of_them/)
 
 In this final chapter, you’ll learn how to identify and avoid the most common plot problems. For example, how can you avoid creating misleading or hard to interpret plots, and will your audience understand what it is you’re trying to tell them? All will be revealed! You'll explore wind directions, asthma incidence, and seats in the German Federal Council.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

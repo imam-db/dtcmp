@@ -22,3 +22,7 @@ Now let’s get into the best practices of database engineering. It's time to ad
 ## [Glue together tables with foreign keys ](./04_glue_together_tables_with_foreign_keys/)
 
 In the final chapter, you'll leverage foreign keys to connect tables and establish relationships that will greatly benefit your data quality. And you'll run ad hoc analyses on your new database.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

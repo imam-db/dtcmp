@@ -19,4 +19,8 @@ Get ready to work with views! In this chapter, you will learn how to create and 
 
 ## [Database Management](./04_database_management/)
 
-This final chapter ends with some database management-related topics. You will learn how to grant database access based on user roles, how to partition tables into smaller pieces, what to keep in mind when integrating data, and which DBMS fits your business needs best. 
+This final chapter ends with some database management-related topics. You will learn how to grant database access based on user roles, how to partition tables into smaller pieces, what to keep in mind when integrating data, and which DBMS fits your business needs best.
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

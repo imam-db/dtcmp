@@ -31,4 +31,8 @@ There are several techniques you can use to repeatedly execute Python code. Whil
 
 ## [Case Study: Hacker Statistics](./05_case_study_hacker_statistics/)
 
-This chapter will allow you to apply all the concepts you've learned in this course. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops, and Matplotlib to gain a competitive edge! 
+This chapter will allow you to apply all the concepts you've learned in this course. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops, and Matplotlib to gain a competitive edge!
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

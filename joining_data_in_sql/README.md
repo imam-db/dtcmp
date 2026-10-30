@@ -29,4 +29,8 @@ In this chapter, you will learn about using set theory operations in SQL, with a
 
 ## [Subqueries](./04_subqueries/)
 
-In this closing chapter, you’ll begin by investigating semi-joins and anti-joins. Next, you'll learn how to use nested queries. Last but not least, you’ll wrap up the course with some challenges! 
+In this closing chapter, you’ll begin by investigating semi-joins and anti-joins. Next, you'll learn how to use nested queries. Last but not least, you’ll wrap up the course with some challenges!
+
+---
+
+Lesson checklist (titles only): [`lessons.md`](./lessons.md)

@@ -46,3 +46,9 @@
 - [Understanding Data Visualization](./understanding_data_visualization/)
 - [Introduction to Git](./introduction_to_git/)
 - [Software Engineering for Data Scientist in Python](./software_engineering_for_data_scientist_in_python/)
+
+### Added for learning-path coverage
+
+- [Data Warehousing Concepts](./data_warehousing_concepts/)
+- [Introduction to Snowflake SQL](./introduction_to_snowflake_sql/)
+- [Software Engineering Principles in Python](./software_engineering_principles_in_python/)
